@@ -343,7 +343,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         <div class="sm:col-span-2">
           <label for="phone-number" class="block text-sm font-medium text-gray-700">Phone Number</label>
           <div class="relative mt-1 rounded-md shadow-sm">
-            <input type="text" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4  focus:border-blue-500 focus:ring-blue-500" placeholder="+1 (555) 987-6543">
+            <input type="text" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4  focus:border-blue-500 focus:ring-blue-500">
           </div>
         </div>
         <div class="sm:col-span-2">
