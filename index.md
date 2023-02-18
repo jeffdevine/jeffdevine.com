@@ -1,24 +1,25 @@
 ---
 layout: default
-title: "Your next engineering leader - Jeff Devine"
+title: "Your Next Engineering Leader - Jeff Devine"
 ---
 
 <div class="bg-gray-50">
   <div class="relative overflow-hidden">
     <div class="relative pt-6 pb-16 sm:pb-24">
-      <div class="mx-auto mt-16 max-w-7xl px-6 sm:mt-24">
+      <div class="mx-auto mt-12 max-w-7xl px-6 sm:mt-16">
         <div class="text-center">
-          <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
-            <span class="block">I'm your next</span>
-            <span class="block text-blue-600">Engineering Leader</span>
-          </h1>
-          <p class="mx-auto mt-3 max-w-md text-base text-gray-500 sm:text-lg md:mt-5 md:max-w-3xl md:text-xl">10x Engineers are a myth, but 10x environments are not. Do you need help transforming your environment into one that fosters delivery and high performing teams?</p>
+          <p class="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl md:text-4xl">
+            <span class="block">Good Engineering Executives Are Hard To Find</span>
+          </p>
+          <p class="mx-auto mt-3 max-w-md text-base text-gray-500 sm:text-lg md:mt-5 md:max-w-3xl md:text-xl">Are you an early-stage startup or a growing business looking to take your technology strategy to the next level? Do you need a highly experienced and knowledgeable CTO but can't justify the cost of hiring one full-time?</p>
+          <p class="text-2xl font-bold tracking-tight text-gray-900 sm:text-2xl md:text-3xl mt-5">
+            <span class="block text-blue-600">You are in the right place.</span>
+          </p>
         </div>
       </div>
     </div>
   </div>
 </div>
-
 
 <div class="relative overflow-hidden bg-white py-16">
   <div class="hidden lg:absolute lg:inset-y-0 lg:block lg:h-full lg:w-full lg:[overflow-anchor:none]">
@@ -49,141 +50,312 @@ title: "Your next engineering leader - Jeff Devine"
       </svg>
     </div>
   </div>
-  <div class="relative px-6 lg:px-8">
+  <div class="relative px-8 lg:px-10">
     <div class="mx-auto max-w-prose text-lg">
       <h1>
-        <span class="block text-center text-lg font-semibold text-indigo-600">10x Environments</span>
-        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Frictionless Developer Experience</span>
+        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">What is a Fractional CTO?</span>
       </h1>
-      <p class="mt-8 text-xl leading-8 text-gray-500">I can help you identify and remove obsticles that slow your engineering teams abiliyt to deliver value.</p>
     </div>
-    <div class="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
-      <p>Faucibus commodo massa rhoncus, volutpat. <strong>Dignissim</strong> sed <strong>eget risus enim</strong>. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. <a href="#">Mattis mauris semper</a> sed amet vitae sed turpis id.</p>
+    <div class="prose prose-lg prose-blue mx-auto mt-6 text-gray-500">
+      <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. With a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
+      <p>Here are just a few of the benefits of working with a fractional CTO:</p>
       <ul role="list">
-        <li>Quis elit egestas venenatis mattis dignissim.</li>
-        <li>Cras cras lobortis vitae vivamus ultricies facilisis tempus.</li>
-        <li>Orci in sit morbi dignissim metus diam arcu pretium.</li>
+        <li><strong>Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
+        <li><strong>Cost-Effective:</strong> A fractional CTO can be more cost-effective than a full-time CTO, allowing you to access high-quality expertise flexibly. This means you can allocate your budget toward other critical business areas.</li>
+        <li><strong>Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
+        <li><strong>Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
       </ul>
-      <p>Quis semper vulputate aliquam venenatis egestas sagittis quisque orci. Donec commodo sit viverra aliquam porttitor ultrices gravida eu. Tincidunt leo, elementum mattis elementum ut nisl, justo, amet, mattis. Nunc purus, diam commodo tincidunt turpis. Amet, duis sed elit interdum dignissim.</p>
-      <h2>From beginner to expert in 30 days</h2>
-      <p>Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod vitae interdum mauris enim, consequat vulputate nibh. Maecenas pellentesque id sed tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis ipsum eu a sed convallis diam.</p>
-      <blockquote>
-        <p>Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi.</p>
-      </blockquote>
-      <p>Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.</p>
+      <p>In short, a fractional CTO can help your business accelerate its growth by providing expert technology leadership on a flexible and cost-effective basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
     </div>
   </div>
 </div>
 
-<div class="relative bg-gray-50 py-12 sm:py-14 lg:py-20">
-  <div class="mx-auto max-w-md px-6 text-center sm:max-w-3xl lg:max-w-7xl lg:px-8">
-    <h2 class="text-lg font-semibold text-blue-600">High Performing Teams</h2>
-    <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Engineering Excellence</p>
-    <p class="mx-auto mt-5 max-w-prose text-xl text-gray-500">Engineering Excellence comes from a culture where you sweat the small stuff. When the team understands the rules and constraints, everyone can move in lockstep twoards the same goal. I can help your teams define, instutionalize, and implement key concepts and practices requried for engineering excellence.</p>
-    <div class="mt-20">
-      <div class="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-3">
-        <div class="pt-6">
-          <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
-            <div class="-mt-6">
-              <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-blue-500 p-3 shadow-lg">
-                  <!-- Heroicon name: outline/cloud-arrow-up -->
-                  <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 16.5V9.75m0 0l3 3m-3-3l-3 3M6.75 19.5a4.5 4.5 0 01-1.41-8.775 5.25 5.25 0 0110.233-2.33 3 3 0 013.758 3.848A3.752 3.752 0 0118 19.5H6.75z" />
-                  </svg>
-                </span>
+<div class="bg-gray-50 py-24 sm:py-32">
+  <div class="mx-auto max-w-7xl px-8">
+    <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+      <div>
+        <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"><span class="block">I'm your next</span>
+      <span class="block text-blue-600">Engineering Leader</span></p>
+        <p class="mt-6 text-base leading-7 text-gray-600">Whether you need a CTO, VP of Engineering, or Head of Platform, I've got you. I help identify and remove obstacles that slow an organization's ability to deliver value while institutionalizing processes and practices that help you scale your business.</p>
+      </div>
+      <dl class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16">
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            Technology Strategy
+          </dt>
+          <dd class="mt-2">Overall approach and roadmap to utilize technology to achieve business goals and objectives.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            Software Architecture
+          </dt>
+          <dd class="mt-2">High-level design and structure to meet the business' functional and non-functional requirements.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            Security & Compliance
+          </dt>
+          <dd class="mt-2">Securing platforms while ensuring compliance with relevant laws, regulations, and industry standards.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            Key Tech Decisions
+          </dt>
+          <dd class="mt-2">Take responsibility for making critical technical decisions such as technology stack, choosing vendors, or spearheading client integrations.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            DevOps & Automation
+          </dt>
+          <dd class="mt-2">Streamlining the SDLC to facilitate collaboration, increase efficiency, and improve software delivery speed and quality.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            System & Application Design
+          </dt>
+          <dd class="mt-2">Creating the blueprint for software development, including its architecture, components, modules, and interfaces.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            Platform Engineering
+          </dt>
+          <dd class="mt-2">Reusable processes, patterns, and libraries that remove friction and accelerate product development and delivery.</dd>
+        </div>
+        <div class="relative pl-9">
+          <dt class="font-semibold text-gray-900">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+            </svg>
+            Hiring
+          </dt>
+          <dd class="mt-2">Establish the roles to be filled, identify potential candidates, and develop interview and onboarding procedures that can be easily scaled.</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</div>
+
+<div class="isolate overflow-hidden bg-gray-900">
+  <div class="mx-auto max-w-7xl px-6 pb-96 pt-12 text-center sm:pt-24 lg:px-8">
+    <div class="mx-auto max-w-4xl">
+      <h2 class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">The right plan that works for you</h2>
+    </div>
+    <div class="relative mt-6">
+      <p class="mx-auto max-w-2xl text-lg leading-8 text-white/60">Engagements are designed to be flexible and adapt to your business's changing needs, allowing you to scale up or down as required. You will receive top-notch expertise without being locked into a long-term commitment.</p>
+      <svg viewBox="0 0 1208 1024" class="absolute -top-10 left-1/2 -z-10 h-[64rem] -translate-x-1/2 [mask-image:radial-gradient(closest-side,white,transparent)] sm:-top-12 md:-top-20 lg:-top-12 xl:top-0">
+        <ellipse cx="604" cy="512" fill="url(#6d1bd035-0dd1-437e-93fa-59d316231eb0)" rx="604" ry="512" />
+        <defs>
+          <radialGradient id="6d1bd035-0dd1-437e-93fa-59d316231eb0">
+            <stop stop-color="#2563eb" />
+            <stop offset="1" stop-color="#93c5fd" />
+          </radialGradient>
+        </defs>
+      </svg>
+    </div>
+  </div>
+  <div class="flow-root bg-gray-50 pb-32 sm:pb-32">
+    <div class="-mt-80">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto grid max-w-md grid-cols-1 gap-8 lg:max-w-4xl lg:grid-cols-3">
+        <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
+            <div>
+              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-blue-600">Part-Time</h3>
+              <div class="mt-4 flex items-baseline gap-x-2">
+                <span class="text-3xl font-bold tracking-tight text-gray-900">24</span>
+                <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
               </div>
-              <h3 class="mt-8 text-lg font-semibold leading-8 tracking-tight text-gray-900">Push to Deploy</h3>
-              <p class="mt-5 text-base leading-7 text-gray-600">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
+              <p class="mt-6 text-base leading-7 text-gray-600">Perfect for product development or major initiatives.</p>
+              <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  Dedicated Days
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  No Retainer
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  Additional Hours
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  3-Month Commitment
+                </li>
+              </ul>
             </div>
           </div>
-        </div>
-
-        <div class="pt-6">
-          <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
-            <div class="-mt-6">
-              <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-blue-500 p-3 shadow-lg">
-                  <!-- Heroicon name: outline/lock-closed -->
-                  <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
-                  </svg>
-                </span>
+          <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
+            <div>
+              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-blue-600">Quarter-Time</h3>
+              <div class="mt-4 flex items-baseline gap-x-2">
+                <span class="text-3xl font-bold tracking-tight text-gray-900">10-12</span>
+                <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
               </div>
-              <h3 class="mt-8 text-lg font-semibold leading-8 tracking-tight text-gray-900">SSL Certificates</h3>
-              <p class="mt-5 text-base leading-7 text-gray-600">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
+              <p class="mt-6 text-base leading-7 text-gray-600">Good for managing vendors or an outsourced team.</p>
+              <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  Time Blocks
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  Retainer-based
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  Additional Hours
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  1-Month Commitment
+                </li>
+              </ul>
             </div>
           </div>
-        </div>
-
-        <div class="pt-6">
-          <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
-            <div class="-mt-6">
-              <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-blue-500 p-3 shadow-lg">
-                  <!-- Heroicon name: outline/arrow-path -->
-                  <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182m0-4.991v4.99" />
-                  </svg>
-                </span>
+          <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
+            <div>
+              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-blue-600">Advisory</h3>
+              <div class="mt-4 flex items-baseline gap-x-2">
+                <span class="text-3xl font-bold tracking-tight text-gray-900">5</span>
+                <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
               </div>
-              <h3 class="mt-8 text-lg font-semibold leading-8 tracking-tight text-gray-900">Simple Queues</h3>
-              <p class="mt-5 text-base leading-7 text-gray-600">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="pt-6">
-          <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
-            <div class="-mt-6">
-              <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-blue-500 p-3 shadow-lg">
-                  <!-- Heroicon name: outline/shield-check -->
-                  <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" />
+              <p class="mt-6 text-base leading-7 text-gray-600">When you have a big idea and need help getting started.</p>
+              <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
-                </span>
-              </div>
-              <h3 class="mt-8 text-lg font-semibold leading-8 tracking-tight text-gray-900">Advanced Security</h3>
-              <p class="mt-5 text-base leading-7 text-gray-600">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="pt-6">
-          <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
-            <div class="-mt-6">
-              <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-blue-500 p-3 shadow-lg">
-                  <!-- Heroicon name: outline/cog -->
-                  <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12a7.5 7.5 0 0015 0m-15 0a7.5 7.5 0 1115 0m-15 0H3m16.5 0H21m-1.5 0H12m-8.457 3.077l1.41-.513m14.095-5.13l1.41-.513M5.106 17.785l1.15-.964m11.49-9.642l1.149-.964M7.501 19.795l.75-1.3m7.5-12.99l.75-1.3m-6.063 16.658l.26-1.477m2.605-14.772l.26-1.477m0 17.726l-.26-1.477M10.698 4.614l-.26-1.477M16.5 19.794l-.75-1.299M7.5 4.205L12 12m6.894 5.785l-1.149-.964M6.256 7.178l-1.15-.964m15.352 8.864l-1.41-.513M4.954 9.435l-1.41-.514M12.002 12l-3.75 6.495" />
+                  As Needed
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
-                </span>
-              </div>
-              <h3 class="mt-8 text-lg font-semibold leading-8 tracking-tight text-gray-900">Powerful API</h3>
-              <p class="mt-5 text-base leading-7 text-gray-600">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="pt-6">
-          <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
-            <div class="-mt-6">
-              <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-blue-500 p-3 shadow-lg">
-                  <!-- Heroicon name: outline/server -->
-                  <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 17.25v-.228a4.5 4.5 0 00-.12-1.03l-2.268-9.64a3.375 3.375 0 00-3.285-2.602H7.923a3.375 3.375 0 00-3.285 2.602l-2.268 9.64a4.5 4.5 0 00-.12 1.03v.228m19.5 0a3 3 0 01-3 3H5.25a3 3 0 01-3-3m19.5 0a3 3 0 00-3-3H5.25a3 3 0 00-3 3m16.5 0h.008v.008h-.008v-.008zm-3 0h.008v.008h-.008v-.008z" />
+                  Retainer-based
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
-                </span>
-              </div>
-              <h3 class="mt-8 text-lg font-semibold leading-8 tracking-tight text-gray-900">Database Backups</h3>
-              <p class="mt-5 text-base leading-7 text-gray-600">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
+                  No Additional Hours
+                </li>
+                <li class="flex gap-x-3">
+                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+                  </svg>
+                  1-Month Commitment
+                </li>
+              </ul>
             </div>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</div>
+
+<div class="overflow-hidden bg-white py-16 px-6 lg:px-8 lg:py-24">
+  <div class="relative mx-auto max-w-3xl">
+    <svg class="absolute left-full translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
+      <defs>
+        <pattern id="85737c0e-0916-41d7-917f-596dc7edfa27" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+          <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+        </pattern>
+      </defs>
+      <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)" />
+    </svg>
+    <svg class="absolute right-full bottom-0 -translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
+      <defs>
+        <pattern id="85737c0e-0916-41d7-917f-596dc7edfa27" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+          <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+        </pattern>
+      </defs>
+      <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)" />
+    </svg>
+    <div class="text-center">
+      <h2 class="text-3xl font-bold tracking-tight text-blue-600 sm:text-4xl">Solving your technical challenges starts here</h2>
+      <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
+    </div>
+    <div class="mt-12 max-w-2xl mx-auto">
+      <form action="#" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+        <div>
+          <label for="first-name" class="block text-sm font-medium text-gray-700">First name</label>
+          <div class="mt-1">
+            <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+          </div>
+        </div>
+        <div>
+          <label for="last-name" class="block text-sm font-medium text-gray-700">Last name</label>
+          <div class="mt-1">
+            <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+          </div>
+        </div>
+        <div class="sm:col-span-2">
+          <label for="company" class="block text-sm font-medium text-gray-700">Company</label>
+          <div class="mt-1">
+            <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+          </div>
+        </div>
+        <div class="sm:col-span-2">
+          <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
+          <div class="mt-1">
+            <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+          </div>
+        </div>
+        <div class="sm:col-span-2">
+          <label for="phone-number" class="block text-sm font-medium text-gray-700">Phone Number</label>
+          <div class="relative mt-1 rounded-md shadow-sm">
+            <input type="text" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4  focus:border-blue-500 focus:ring-blue-500" placeholder="+1 (555) 987-6543">
+          </div>
+        </div>
+        <div class="sm:col-span-2">
+          <label for="message" class="block text-sm font-medium text-gray-700">Message</label>
+          <div class="mt-1">
+            <textarea id="message" name="message" rows="4" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500"></textarea>
+          </div>
+        </div>
+        <div class="sm:col-span-2">
+          <button type="submit" class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-blue-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">Let's talk</button>
+        </div>
+      </form>
     </div>
   </div>
 </div>
