@@ -63,7 +63,7 @@ title: "Your Next Fractional CTO - Jeff Devine"
   <div class="relative px-8 lg:px-10">
     <div class="mx-auto max-w-prose text-lg">
       <h1>
-        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-600 sm:text-4xl">What is a Fractional CTO?</span>
+        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-800 sm:text-4xl">What is a Fractional CTO?</span>
       </h1>
     </div>
     <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500">
@@ -84,7 +84,7 @@ title: "Your Next Fractional CTO - Jeff Devine"
   <div class="mx-auto max-w-7xl px-8">
     <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <div>
-        <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"><span class="block">I'm your next</span>
+        <p class="mt-2 text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl"><span class="block">I'm your next</span>
       <span class="block text-sky-600">Engineering Leader</span></p>
         <p class="mt-6 text-base leading-7 text-gray-600">Whether you need a CTO, VP of Engineering, or Head of Platform, I've got you. I help identify and remove obstacles that slow an organization's ability to deliver value while institutionalizing processes and practices that help you scale your business.</p>
       </div>
