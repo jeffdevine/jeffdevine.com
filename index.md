@@ -1,23 +1,33 @@
 ---
 layout: default
-title: "Your Next Engineering Leader - Jeff Devine"
+title: "Your Next Fractional CTO - Jeff Devine"
 ---
-
-<div class="bg-gray-50">
-  <div class="relative overflow-hidden">
-    <div class="relative pt-6 pb-16 sm:pb-24">
-      <div class="mx-auto mt-12 max-w-7xl px-6 sm:mt-16">
-        <div class="text-center">
-          <p class="text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl md:text-4xl">
-            <span class="block">Good Engineering Executives Are Hard To Find</span>
-          </p>
-          <p class="mx-auto mt-3 max-w-md text-base text-gray-500 sm:text-lg md:mt-5 md:max-w-3xl md:text-xl">Are you an early-stage startup or a growing business looking to take your technology strategy to the next level? Do you need a highly experienced and knowledgeable CTO but can't justify the cost of hiring one full-time?</p>
-          <p class="text-2xl font-bold tracking-tight text-gray-900 sm:text-2xl md:text-3xl mt-5">
-            <span class="block text-blue-600">You are in the right place.</span>
-          </p>
-        </div>
-      </div>
-    </div>
+<div class="relative isolate overflow-hidden bg-gray-900 py-24 px-6 sm:py-32 lg:px-8">
+  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-y=.8&w=2830&h=1500&q=80&blend=111827&sat=-150&exp=15&blend-mode=multiply" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
+  <svg viewBox="0 0 1097 845" aria-hidden="true" class="hidden transform-gpu blur-3xl sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:w-[68.5625rem]">
+    <path fill="url(#10724532-9d81-43d2-bb94-866e98dd6e42)" fill-opacity=".2" d="M301.174 646.641 193.541 844.786 0 546.172l301.174 100.469 193.845-356.855c1.241 164.891 42.802 431.935 199.124 180.978 195.402-313.696 143.295-588.18 284.729-419.266 113.148 135.13 124.068 367.989 115.378 467.527L811.753 372.553l20.102 451.119-530.681-177.031Z" />
+    <defs>
+      <linearGradient id="10724532-9d81-43d2-bb94-866e98dd6e42" x1="1097.04" x2="-141.165" y1=".22" y2="363.075" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#0284c7" />
+        <stop offset="1" stop-color="#7dd3fc" />
+      </linearGradient>
+    </defs>
+  </svg>
+  <svg viewBox="0 0 1097 845" aria-hidden="true" class="absolute left-1/2 -top-52 -z-10 w-[68.5625rem] -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0">
+    <path fill="url(#8ddc7edb-8983-4cd7-bccb-79ad21097d70)" fill-opacity=".2" d="M301.174 646.641 193.541 844.786 0 546.172l301.174 100.469 193.845-356.855c1.241 164.891 42.802 431.935 199.124 180.978 195.402-313.696 143.295-588.18 284.729-419.266 113.148 135.13 124.068 367.989 115.378 467.527L811.753 372.553l20.102 451.119-530.681-177.031Z" />
+    <defs>
+      <linearGradient id="8ddc7edb-8983-4cd7-bccb-79ad21097d70" x1="1097.04" x2="-141.165" y1=".22" y2="363.075" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#0284c7" />
+        <stop offset="1" stop-color="#7dd3fc" />
+      </linearGradient>
+    </defs>
+  </svg>
+  <div class="mx-auto max-w-3xl text-center">
+    <h2 class="text-4xl font-bold tracking-tight text-white sm:text-4xl md:text-6xl">Good Engineering Executives <span class="block md:text-5xl mt-2">Are <i>Hard</i> To Find</span></h2>
+    <p class="mt-6 sm:text-lg md:text-2xl md:leading-relaxed text-gray-200">Are you an early-stage startup or a growing business looking to take your technology strategy to the next level? Do you need a <strong>highly experienced</strong> and <strong>knowledgeable CTO</strong> but can't justify the cost of hiring one full-time?</p>
+    <p class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl md:text-4xl mt-10">
+      <span class="block text-sky-500">You are in the right place.</span>
+    </p>
   </div>
 </div>
 
@@ -53,17 +63,17 @@ title: "Your Next Engineering Leader - Jeff Devine"
   <div class="relative px-8 lg:px-10">
     <div class="mx-auto max-w-prose text-lg">
       <h1>
-        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">What is a Fractional CTO?</span>
+        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-600 sm:text-4xl">What is a Fractional CTO?</span>
       </h1>
     </div>
-    <div class="prose prose-lg prose-blue mx-auto mt-6 text-gray-500">
+    <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500">
       <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. With a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
       <p>Here are just a few of the benefits of working with a fractional CTO:</p>
       <ul role="list">
-        <li><strong>Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
-        <li><strong>Cost-Effective:</strong> A fractional CTO can be more cost-effective than a full-time CTO, allowing you to access high-quality expertise flexibly. This means you can allocate your budget toward other critical business areas.</li>
-        <li><strong>Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
-        <li><strong>Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
+        <li><strong class="text-sky-600">Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
+        <li><strong class="text-sky-600">Cost-Effective:</strong> A fractional CTO can be more cost-effective than a full-time CTO, allowing you to access high-quality expertise flexibly. This means you can allocate your budget toward other critical business areas.</li>
+        <li><strong class="text-sky-600">Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
+        <li><strong class="text-sky-600">Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
       </ul>
       <p>In short, a fractional CTO can help your business accelerate its growth by providing expert technology leadership on a flexible and cost-effective basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
     </div>
