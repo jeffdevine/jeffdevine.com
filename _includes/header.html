@@ -1,16 +1,20 @@
-<header class="bg-blue-700">
-  <nav class="mx-auto max-w-7xl px-6 lg:px-8" aria-label="Top">
-    <div class="flex w-full items-center justify-between border-b border-blue-500 py-6 lg:border-none">
-      <div class="flex items-center">
-        <a href="/">
+<div class="relative bg-white">
+  <div class="pointer-events-none absolute inset-0 z-30 shadow" aria-hidden="true"></div>
+  <div class="relative z-20">
+    <div
+      class="mx-auto flex max-w-7xl items-center justify-between py-5 px-6 sm:py-4 md:justify-start md:space-x-10 lg:px-8">
+      <div>
+        <a href="/" class="flex">
           <span class="sr-only">Jeff Devine</span>
-          <img class="h-8 w-auto" src="{{ '/assets/images/jeff_devine_logo.png' | relative_url }}" alt="">
-        </a>
+          <img class="h-8 w-auto" src="{{ '/assets/images/jeff_devine_logo.png' | relative_url }}" </a>
       </div>
-      <div class="ml-10 justify-end space-x-8 lg:block">
-        <a href="/about" class="text-base font-medium text-white hover:text-gray-400">About</a>
-        <a href="/blog" class="text-base font-medium text-white hover:text-gray-400">Blog</a>
+      <div class="md:flex md:flex-1 md:items-center md:justify-between">
+        <nav class="flex space-x-10">
+          <a href="/about"
+            class="text-base uppercase tracking-widest font-medium text-sky-600 hover:text-sky-300">About</a>
+          <a href="#" class="text-base uppercase tracking-widest font-medium text-sky-600 hover:text-sky-300">Blog</a>
+        </nav>
       </div>
     </div>
-  </nav>
-</header>
+  </div>
+</div>

@@ -75,13 +75,13 @@ title: "Your Next Engineering Leader - Jeff Devine"
     <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <div>
         <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"><span class="block">I'm your next</span>
-      <span class="block text-blue-600">Engineering Leader</span></p>
+      <span class="block text-sky-600">Engineering Leader</span></p>
         <p class="mt-6 text-base leading-7 text-gray-600">Whether you need a CTO, VP of Engineering, or Head of Platform, I've got you. I help identify and remove obstacles that slow an organization's ability to deliver value while institutionalizing processes and practices that help you scale your business.</p>
       </div>
       <dl class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16">
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             Technology Strategy
@@ -90,7 +90,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             Software Architecture
@@ -99,7 +99,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             Security & Compliance
@@ -108,7 +108,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             Key Tech Decisions
@@ -117,7 +117,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             DevOps & Automation
@@ -126,16 +126,16 @@ title: "Your Next Engineering Leader - Jeff Devine"
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             System & Application Design
           </dt>
-          <dd class="mt-2">Creating the blueprint for software development, including its architecture, components, modules, and interfaces.</dd>
+          <dd class="mt-2">Creating the skyprint for software development, including its architecture, components, modules, and interfaces.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             Platform Engineering
@@ -144,7 +144,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
             </svg>
             Hiring
@@ -162,13 +162,13 @@ title: "Your Next Engineering Leader - Jeff Devine"
       <h2 class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">The right plan that works for you</h2>
     </div>
     <div class="relative mt-6">
-      <p class="mx-auto max-w-2xl text-lg leading-8 text-white/60">Engagements are designed to be flexible and adapt to your business's changing needs, allowing you to scale up or down as required. You will receive top-notch expertise without being locked into a long-term commitment.</p>
+      <p class="mx-auto max-w-2xl text-lg leading-8 text-white/90">Engagements are designed to be flexible and adapt to your business's changing needs, allowing you to scale up or down as required. You will receive top-notch expertise without being locked into a long-term commitment.</p>
       <svg viewBox="0 0 1208 1024" class="absolute -top-10 left-1/2 -z-10 h-[64rem] -translate-x-1/2 [mask-image:radial-gradient(closest-side,white,transparent)] sm:-top-12 md:-top-20 lg:-top-12 xl:top-0">
         <ellipse cx="604" cy="512" fill="url(#6d1bd035-0dd1-437e-93fa-59d316231eb0)" rx="604" ry="512" />
         <defs>
           <radialGradient id="6d1bd035-0dd1-437e-93fa-59d316231eb0">
-            <stop stop-color="#2563eb" />
-            <stop offset="1" stop-color="#93c5fd" />
+            <stop stop-color="#0284c7" />
+            <stop offset="1" stop-color="#7dd3fc" />
           </radialGradient>
         </defs>
       </svg>
@@ -180,7 +180,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
         <div class="mx-auto grid max-w-md grid-cols-1 gap-8 lg:max-w-4xl lg:grid-cols-3">
         <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
             <div>
-              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-blue-600">Part-Time</h3>
+              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-sky-600">Part-Time</h3>
               <div class="mt-4 flex items-baseline gap-x-2">
                 <span class="text-3xl font-bold tracking-tight text-gray-900">24</span>
                 <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
@@ -188,25 +188,25 @@ title: "Your Next Engineering Leader - Jeff Devine"
               <p class="mt-6 text-base leading-7 text-gray-600">Perfect for product development or major initiatives.</p>
               <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   Dedicated Days
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   No Retainer
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   Additional Hours
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   3-Month Commitment
@@ -216,7 +216,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
           </div>
           <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
             <div>
-              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-blue-600">Quarter-Time</h3>
+              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-sky-600">Quarter-Time</h3>
               <div class="mt-4 flex items-baseline gap-x-2">
                 <span class="text-3xl font-bold tracking-tight text-gray-900">10-12</span>
                 <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
@@ -224,25 +224,25 @@ title: "Your Next Engineering Leader - Jeff Devine"
               <p class="mt-6 text-base leading-7 text-gray-600">Good for managing vendors or an outsourced team.</p>
               <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   Time Blocks
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   Retainer-based
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   Additional Hours
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   1-Month Commitment
@@ -252,7 +252,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
           </div>
           <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
             <div>
-              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-blue-600">Advisory</h3>
+              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-sky-600">Advisory</h3>
               <div class="mt-4 flex items-baseline gap-x-2">
                 <span class="text-3xl font-bold tracking-tight text-gray-900">5</span>
                 <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
@@ -260,25 +260,25 @@ title: "Your Next Engineering Leader - Jeff Devine"
               <p class="mt-6 text-base leading-7 text-gray-600">When you have a big idea and need help getting started.</p>
               <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   As Needed
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   Retainer-based
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   No Additional Hours
                 </li>
                 <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-blue-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                     <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
                   </svg>
                   1-Month Commitment
@@ -311,7 +311,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
       <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)" />
     </svg>
     <div class="text-center">
-      <h2 class="text-3xl font-bold tracking-tight text-blue-600 sm:text-4xl">Solving your technical challenges starts here</h2>
+      <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl">Solving your technical challenges starts here</h2>
       <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
     </div>
     <div class="mt-12 max-w-2xl mx-auto">
@@ -319,41 +319,41 @@ title: "Your Next Engineering Leader - Jeff Devine"
         <div>
           <label for="first-name" class="block text-sm font-medium text-gray-700">First name</label>
           <div class="mt-1">
-            <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+            <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
           </div>
         </div>
         <div>
           <label for="last-name" class="block text-sm font-medium text-gray-700">Last name</label>
           <div class="mt-1">
-            <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+            <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
           </div>
         </div>
         <div class="sm:col-span-2">
           <label for="company" class="block text-sm font-medium text-gray-700">Company</label>
           <div class="mt-1">
-            <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+            <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
           </div>
         </div>
         <div class="sm:col-span-2">
           <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
           <div class="mt-1">
-            <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+            <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
           </div>
         </div>
         <div class="sm:col-span-2">
           <label for="phone-number" class="block text-sm font-medium text-gray-700">Phone Number</label>
           <div class="relative mt-1 rounded-md shadow-sm">
-            <input type="text" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4  focus:border-blue-500 focus:ring-blue-500">
+            <input type="text" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4  focus:border-sky-500 focus:ring-sky-500">
           </div>
         </div>
         <div class="sm:col-span-2">
           <label for="message" class="block text-sm font-medium text-gray-700">Message</label>
           <div class="mt-1">
-            <textarea id="message" name="message" rows="4" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-blue-500 focus:ring-blue-500"></textarea>
+            <textarea id="message" name="message" rows="4" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500"></textarea>
           </div>
         </div>
         <div class="sm:col-span-2">
-          <button type="submit" class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-blue-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">Let's talk</button>
+          <button type="submit" class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-sky-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2">Let's talk</button>
         </div>
       </form>
     </div>
