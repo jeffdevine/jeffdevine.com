@@ -75,7 +75,7 @@ title: "Your Next Fractional CTO - Jeff Devine"
         <li><strong class="text-sky-600">Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
         <li><strong class="text-sky-600">Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
       </ul>
-      <p>In short, a fractional CTO can help your business accelerate its growth by providing expert technology leadership on a flexible and cost-effective basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
+      <p>In short, a fractional CTO can help your business <strong>accelerate</strong> its <strong>growth</strong> by providing <strong>expert technology leadership</strong> on a <strong>flexible and cost-effective</strong> basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
     </div>
   </div>
 </div>
