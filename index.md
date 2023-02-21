@@ -302,7 +302,7 @@ title: "Your Next Fractional CTO - Jeff Devine"
   </div>
 </div>
 
-<div class="overflow-hidden bg-white py-16 px-6 lg:px-8 lg:py-24">
+<div id="contact-form" class="overflow-hidden bg-white py-16 px-6 lg:px-8 lg:py-24">
   <div class="relative mx-auto max-w-3xl">
     <svg class="absolute left-full translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
       <defs>
@@ -325,11 +325,11 @@ title: "Your Next Fractional CTO - Jeff Devine"
       <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
     </div>
     <div class="mt-12 max-w-2xl mx-auto">
-      <form action="#" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+      <form action="mailto:jeff@jeffdevine.com" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
         <div>
           <label for="first-name" class="block text-sm font-medium text-gray-700">First name</label>
           <div class="mt-1">
-            <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
+            <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500" required="true">
           </div>
         </div>
         <div>
@@ -347,13 +347,7 @@ title: "Your Next Fractional CTO - Jeff Devine"
         <div class="sm:col-span-2">
           <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
           <div class="mt-1">
-            <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
-          </div>
-        </div>
-        <div class="sm:col-span-2">
-          <label for="phone-number" class="block text-sm font-medium text-gray-700">Phone Number</label>
-          <div class="relative mt-1 rounded-md shadow-sm">
-            <input type="text" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-gray-300 py-3 px-4  focus:border-sky-500 focus:ring-sky-500">
+            <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500" required="true">
           </div>
         </div>
         <div class="sm:col-span-2">
@@ -367,5 +361,14 @@ title: "Your Next Fractional CTO - Jeff Devine"
         </div>
       </form>
     </div>
+  </div>
+</div>
+
+<div id="thank-you" class="hidden relative isolate overflow-hidden bg-white py-24 px-6 sm:py-32 lg:px-8">
+  <div class="bg-[radial-gradient(45rem_50rem_at_top,theme(colors.sky.100),white)] absolute inset-0 -z-10 opacity-20"></div>
+  <div class="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-white shadow-xl shadow-indigo-600/10 ring-1 ring-indigo-50 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center"></div>
+  <div class="mx-auto max-w-2xl lg:max-w-4xl">
+    <p class="text-center text-2xl font-semibold leading-8 text-sky-600 sm:text-3xl sm:leading-9">Thank you!</p>
+    <p class="mt-5 text-center text-xl leading-8 text-sky-900 sm:leading-9">I'll be in touch very soon to schedule a discovery call.</p>
   </div>
 </div>
