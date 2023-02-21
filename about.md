@@ -1,74 +1,53 @@
 ---
 layout: default
-title: "Your Next Engineering Leader - Jeff Devine"
+title: "About - Jeff Devine"
 ---
 
-<div class="relative bg-gray-50 py-16 sm:py-12">
-  <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:items-start lg:gap-24 lg:px-8">
-    <div class="relative sm:py-16 lg:py-0">
-      <div aria-hidden="true" class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen">
-        <div class="absolute inset-y-0 right-1/2 w-full rounded-r-3xl bg-gray-100 lg:right-72"></div>
-        <svg class="absolute top-8 left-1/2 -ml-3 lg:-right-8 lg:left-auto lg:top-12" width="404" height="392" fill="none" viewBox="0 0 404 392">
-          <defs>
-            <pattern id="02f20b47-fd69-4224-a62a-4c9de5c763f7" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-              <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
-            </pattern>
-          </defs>
-          <rect width="404" height="392" fill="url(#02f20b47-fd69-4224-a62a-4c9de5c763f7)" />
-        </svg>
-      </div>
-      <div class="relative mx-auto max-w-md px-6 sm:max-w-3xl lg:max-w-none lg:px-0 lg:py-20">
-        <!-- Testimonial card-->
-        <div class="relative overflow-hidden rounded-2xl pt-64 pb-10 shadow-xl">
-          <img class="absolute inset-0 h-full w-full object-cover" src="{{ '/assets/images/jeff_devine_bio_picture.jpg' | relative_url }}" alt="">
-          <div class="relative px-8">
-            <blockquote class="mt-8">
-              <div class="relative text-lg font-medium text-white md:flex-grow">
-                <svg class="absolute top-0 left-0 h-8 w-8 -translate-x-3 -translate-y-2 transform text-sky-400" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
-                  <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
-                </svg>
-                <p class="relative">Can only be described in one word, transformative. Company culture, best practices, and thinking smarter.</p>
-              </div>
-              <footer class="mt-4">
-                <p class="text-base font-semibold text-white">Carlos Espejo, AVP Cloud & DevOps</p>
-              </footer>
-            </blockquote>
-          </div>
-        </div>
-      </div>
+<div class="relative overflow-hidden bg-white py-16">
+  <div class="hidden lg:absolute lg:inset-y-0 lg:block lg:h-full lg:w-full lg:[overflow-anchor:none]">
+    <div class="relative mx-auto h-full max-w-prose text-lg" aria-hidden="true">
+      <svg class="absolute top-12 left-full translate-x-32 transform" width="404" height="384" fill="none" viewBox="0 0 404 384">
+        <defs>
+          <pattern id="74b3fd99-0a6f-4271-bef2-e80eeafdf357" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+          </pattern>
+        </defs>
+        <rect width="404" height="384" fill="url(#74b3fd99-0a6f-4271-bef2-e80eeafdf357)" />
+      </svg>
+      <svg class="absolute top-1/2 right-full -translate-y-1/2 -translate-x-32 transform" width="404" height="384" fill="none" viewBox="0 0 404 384">
+        <defs>
+          <pattern id="f210dbf6-a58d-4871-961e-36d5016a0f49" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+          </pattern>
+        </defs>
+        <rect width="404" height="384" fill="url(#f210dbf6-a58d-4871-961e-36d5016a0f49)" />
+      </svg>
+      <svg class="absolute bottom-12 left-full translate-x-32 transform" width="404" height="384" fill="none" viewBox="0 0 404 384">
+        <defs>
+          <pattern id="d3eb07ae-5182-43e6-857d-35c643af9034" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+          </pattern>
+        </defs>
+        <rect width="404" height="384" fill="url(#d3eb07ae-5182-43e6-857d-35c643af9034)" />
+      </svg>
     </div>
-    <div class="relative mx-auto max-w-md px-6 sm:max-w-3xl lg:px-0">
-      <!-- Content area -->
-      <div class="pt-12 sm:pt-16 lg:pt-10">
-        <h2 class="text-2xl font-bold tracking-tight text-sky-600 sm:text-3xl">New York-based musician, wine snob, coffee appreciator, amateur sartorialist, and family man.</h2>
-        <div class="mt-6 space-y-6 text-gray-700">
-          <p class="text-lg">What I'm good at</p>
-          <p class="text-base leading-7">What I've done</p>
-          <p class="text-base leading-7">Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra.</p>
-        </div>
-      </div>
-
-      <!-- Stats section -->
-      <div class="mt-10">
-        <dl class="grid grid-cols-2 gap-x-4 gap-y-8">
-          <div class="border-t-2 border-gray-100 pt-6">
-            <dt class="text-base font-medium text-gray-500">Founded</dt>
-            <dd class="text-3xl font-bold tracking-tight text-gray-900">2021</dd>
-          </div>
-          <div class="border-t-2 border-gray-100 pt-6">
-            <dt class="text-base font-medium text-gray-500">Employees</dt>
-            <dd class="text-3xl font-bold tracking-tight text-gray-900">5</dd>
-          </div>
-          <div class="border-t-2 border-gray-100 pt-6">
-            <dt class="text-base font-medium text-gray-500">Beta Users</dt>
-            <dd class="text-3xl font-bold tracking-tight text-gray-900">521</dd>
-          </div>
-          <div class="border-t-2 border-gray-100 pt-6">
-            <dt class="text-base font-medium text-gray-500">Raised</dt>
-            <dd class="text-3xl font-bold tracking-tight text-gray-900">$25M</dd>
-          </div>
-        </dl>
-      </div>
+  </div>
+  <div class="relative px-8 lg:px-10">
+    <div class="mx-auto max-w-prose text-lg">
+      <h1>
+        <span class="mt-2 block text-center text-2xl font-bold leading-8 tracking-tight text-sky-600 sm:text-3xl">New York-based musician, wine snob, coffee appreciator, amateur sartorialist, and family man.</span>
+      </h1>
+    </div>
+    <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500">
+      <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. With a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
+      <p>Here are just a few of the benefits of working with a fractional CTO:</p>
+      <ul role="list">
+        <li><strong class="text-sky-600">Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
+        <li><strong class="text-sky-600">Cost-Effective:</strong> A fractional CTO can be more cost-effective than a full-time CTO, allowing you to access high-quality expertise flexibly. This means you can allocate your budget toward other critical business areas.</li>
+        <li><strong class="text-sky-600">Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
+        <li><strong class="text-sky-600">Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
+      </ul>
+      <p>In short, a fractional CTO can help your business <strong>accelerate</strong> its <strong>growth</strong> by providing <strong>expert technology leadership</strong> on a <strong>flexible and cost-effective</strong> basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
     </div>
   </div>
 </div>
