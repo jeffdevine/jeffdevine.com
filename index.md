@@ -325,7 +325,7 @@ title: "Your Next Fractional CTO - Jeff Devine"
       <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
     </div>
     <div class="mt-12 max-w-2xl mx-auto">
-      <form action="mailto:jeff@jeffdevine.com" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+      <form action="{{ site.contact_form_api }}" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
         <div>
           <label for="first-name" class="block text-sm font-medium text-gray-700">First name</label>
           <div class="mt-1">
