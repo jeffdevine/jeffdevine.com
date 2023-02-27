@@ -5,10 +5,9 @@ document.addEventListener('submit', (event) => {
 
   const form = event.target;
 
-  fetch(form.action, {
-    method: form.method,
-    body: new FormData(form),
-  });
+  const data = new FormData(form);
+
+  fetch(form.action, { method: form.method, body: data });
 
   document.querySelector('#thank-you').style.display = 'block';
 });
