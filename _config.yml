@@ -1,11 +1,11 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+url: "https://jeffdevine.com"
+title: "Your Next Engineering Leader" # the name of your site, e.g. ACME Corp.
 
 contact_form_api: 'https://ns2ncbequj.execute-api.us-east-1.amazonaws.com/contact'
 
 plugins:
   - jekyll-postcss
+  - jekyll-sitemap
 
 postcss:
   cache: false
