@@ -62,7 +62,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
   </div>
   <div class="relative px-8 lg:px-10">
     <div class="mx-auto max-w-prose text-lg">
-      <h1>
+      <h1 id="what-is-a-fractional-cto">
         <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-800 sm:text-4xl">What is a Fractional CTO?</span>
       </h1>
     </div>
@@ -84,7 +84,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
   <div class="mx-auto max-w-7xl px-8">
     <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <div>
-        <p class="mt-2 text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl"><span class="block">I'm your next</span>
+        <p class="mt-2 text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl" id="services"><span class="block">I'm your next</span>
       <span class="block text-sky-600">Engineering Leader</span></p>
         <p class="mt-6 text-base leading-7 text-gray-600">Whether you need a CTO, VP of Engineering, or Head of Platform, I've got you. I help identify and remove obstacles that slow an organization's ability to deliver value while institutionalizing processes and practices that help you scale your business.</p>
       </div>
@@ -169,7 +169,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
 <div class="isolate overflow-hidden bg-gray-900">
   <div class="mx-auto max-w-7xl px-6 pb-96 pt-12 text-center sm:pt-24 lg:px-8">
     <div class="mx-auto max-w-4xl">
-      <h2 class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">The right plan that works for you</h2>
+      <h2 class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl" id="plans">The right plan that works for you</h2>
     </div>
     <div class="relative mt-6">
       <p class="mx-auto max-w-2xl text-lg leading-8 text-white/90">Engagements are designed to be flexible and adapt to your business's changing needs, allowing you to scale up or down as required. You will receive top-notch expertise without being locked into a long-term commitment.</p>
@@ -321,7 +321,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
       <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)" />
     </svg>
     <div class="text-center">
-      <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl">Solving your technical challenges starts here</h2>
+      <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl" id="contact">Solving your technical challenges starts here</h2>
       <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
     </div>
     <div class="mt-12 max-w-2xl mx-auto">
