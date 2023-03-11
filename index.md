@@ -141,7 +141,7 @@ title: "Your Next Engineering Leader - Jeff Devine"
             </svg>
             System & Application Design
           </dt>
-          <dd class="mt-2">Creating the skyprint for software development, including its architecture, components, modules, and interfaces.</dd>
+          <dd class="mt-2">Creating the blueprint for software development, including its architecture, components, modules, and interfaces.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
