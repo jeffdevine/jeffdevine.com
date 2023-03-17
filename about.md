@@ -33,21 +33,94 @@ title: "About - Jeff Devine"
     </div>
   </div>
   <div class="relative px-8 lg:px-10">
-    <div class="mx-auto max-w-prose text-lg">
+    <div class="flex justify-center">
+      <img class="h-40 w-auto drop-shadow-lg" src="{{ '/assets/images/jeff_devine_head_shot.png' | relative_url }}" />
+    </div>
+    <div class="mx-auto max-w-prose text-lg mt-5">
       <h1>
         <span class="mt-2 block text-center text-2xl font-bold leading-8 tracking-tight text-sky-600 sm:text-3xl">New York-based musician, wine snob, coffee appreciator, amateur sartorialist, and family man.</span>
       </h1>
     </div>
     <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500">
-      <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. With a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
-      <p>Here are just a few of the benefits of working with a fractional CTO:</p>
-      <ul role="list">
-        <li><strong class="text-sky-600">Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
-        <li><strong class="text-sky-600">Cost-Effective:</strong> A fractional CTO can be more cost-effective than a full-time CTO, allowing you to access high-quality expertise flexibly. This means you can allocate your budget toward other critical business areas.</li>
-        <li><strong class="text-sky-600">Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
-        <li><strong class="text-sky-600">Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
-      </ul>
-      <p>In short, a fractional CTO can help your business <strong>accelerate</strong> its <strong>growth</strong> by providing <strong>expert technology leadership</strong> on a <strong>flexible and cost-effective</strong> basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
+      <p>Jeff Devine is a musician, ex-whisky lover, and technologist living in New York City. He has 25 years of experience building technology and products for startups, large enterprises, and everything in between.</p>
+
+      <p>He is passionate about the craft of engineering and building high-performing teams. He is reluctantly learning about machine learning (as much as anyone can really understand it). In another life, he briefly made his living as a jazz drummer.</p>
+
+      <p>Originally from Indianapolis, he studied music and computer science at Butler University. Jeff lives in Long Island City with two kids, two cats, lots of vinyl, and an embarrassing number of ride cymbals.</p>
+    </div>
+
+    <div class="mx-auto max-w-prose text-lg mt-5">
+      <h2>
+        <span class="mt-5 block text-center text-xl font-bold leading-8 tracking-tight text-sky-600 sm:text-xl">Work History</span>
+      </h2>
+    </div>
+    <div class="prose prose-lg prose-sky mx-auto mt-5 text-gray-500">
+      <table class="min-w-full divide-y divide-gray-300">
+          <thead>
+            <tr>
+              <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 sm:pl-3">Date</th>
+              <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">Company</th>
+              <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">Title</th>
+            </tr>
+          </thead>
+          <tbody class="bg-white">
+            <tr>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Nov 2022 - Present</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Jeff Devine, LLC</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Fractional CTO Consultant</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Apr 2019 - Nov 2022</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Allied World</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">SVP, Chief Development Officer</td>
+            </tr>
+            <tr>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 2017 - Apr 2019</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Artificing, LLC</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Chief Technology Officer</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 2015 – Jul 2017</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Rejuvenan Global Health</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Chief Technology Officer</td>
+            </tr>
+            <tr>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jan 2012 – Jul 2015</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Gantry Services, Inc.</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Principal Consultant</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">May 2011 – Apr 2012</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">ExecutiveView</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Founder</td>
+            </tr>
+            <tr>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jan 2012 – Jul 2015</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Gantry Services, Inc.</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Principal Consultant</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Apr 2010 – Sep 2011<br>Apr 2008 – Sep 2010</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Allied World Insurance Company</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">VP, Data Manager<br>AVP, Global Architect</td>
+            </tr>
+            <tr>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Mar 2006 – Apr 2008<br>Aug 2003 – Mar 2006</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Axis Capital</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">AVP, Applications Development<br>Senior Programmer</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jun 1999 – Aug 2003</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">nSIGHT MEDIA</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Programmer</td>
+            </tr>
+            <tr>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 1997 – Jun 1999</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Premium Systems, Inc.</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Web Developer</td>
+            </tr>
+          </tbody>
+        </table>
     </div>
   </div>
 </div>
