@@ -67,9 +67,9 @@ title: "About - Jeff Devine"
               <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Fractional CTO Consultant</td>
             </tr>
             <tr class="bg-gray-50">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Apr 2019 - Nov 2022</td>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Feb 2021 - Nov 2022<br>Apr 2019 - Feb 2021</td>
               <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Allied World</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">SVP, Chief Development Officer</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">SVP of Engineering <br>SVP, Chief Development Officer</td>
             </tr>
             <tr>
               <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 2017 - Apr 2019</td>
@@ -77,9 +77,9 @@ title: "About - Jeff Devine"
               <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Chief Technology Officer</td>
             </tr>
             <tr class="bg-gray-50">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 2015 – Jul 2017</td>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jan 2016 – Jul 2017<br>Jul 2015 – Jan 2016</td>
               <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Rejuvenan Global Health</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Chief Technology Officer</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Chief Technology Officer<br>VP Engineering</td>
             </tr>
             <tr>
               <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jan 2012 – Jul 2015</td>
