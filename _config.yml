@@ -3,7 +3,7 @@ title: "Your Next Engineering Leader" # the name of your site, e.g. ACME Corp.
 
 contact_form_api: 'https://ns2ncbequj.execute-api.us-east-1.amazonaws.com/contact'
 
-exclude: [package.json, postcss.config.js, tailwind.config.js, yarn.lock]
+exclude: [package.json, postcss.config.js, README.md, tailwind.config.js, yarn.lock]
 
 plugins:
   - jekyll-postcss
