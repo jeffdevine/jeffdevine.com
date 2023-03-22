@@ -12,7 +12,7 @@ title: "Articles"
       {% for post in site.posts %}
         <article class="relative isolate flex flex-col gap-8 lg:flex-row">
           <div class="relative aspect-[16/9] sm:aspect-[2/1] lg:aspect-square lg:w-64 lg:shrink-0">
-            <img src="{{ post.post_image | relative_url }}" alt="{{ post.post_image_alt }}" class="absolute inset-0 h-full w-full rounded-2xl bg-gray-50 object-cover">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt_text }}" class="absolute inset-0 h-full w-full rounded-2xl bg-gray-50 object-cover">
             <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
           </div>
           <div>
@@ -31,7 +31,7 @@ title: "Articles"
             </div>
             <div class="mt-6 flex border-t border-gray-900/5 pt-6">
               <div class="relative flex items-center gap-x-4">
-                <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}'s Headshot" class="h-10 w-10 rounded-full bg-gray-50">
+                <img src="{{ site.author.picture | relative_url }}" alt="{{ site.author.name }}'s Headshot" class="h-10 w-10 rounded-full bg-gray-50">
                 <div class="text-sm leading-6">
                   <p class="font-semibold text-sky-600">
                     <a href="{{ site.author.bio_link | relative_url }}">
