@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About - Jeff Devine"
+title: "About"
 ---
 
 <div class="relative overflow-hidden bg-white py-16">
