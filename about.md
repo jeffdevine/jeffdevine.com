@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+description: "Jeff Devine is a New York-based musician, technologist, wine snob, coffee appreciator, amateur sartorialist, and family man."
 ---
 
 <div class="relative overflow-hidden bg-white py-16">

@@ -1,13 +1,14 @@
 ---
 layout: default
 title: "Articles"
+description: "Expert insights and opinions on the latest trends in technology from a seasoned CTO and hands-on technologist."
 ---
 
 <div class="bg-white py-12 sm:py-24">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:max-w-4xl">
       <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl">From the blog</h2>
-      <p class="mt-2 text-lg leading-8 text-gray-600">Expert technology advice to unlock business growth.</p>
+      <p class="mt-2 text-lg leading-8 text-gray-600">Insights and opinions on the latest trends in technology.</p>
       <div class="mt-8 space-y-20 lg:mt-16 lg:space-y-20">
       {% for post in site.posts %}
         <article class="relative isolate flex flex-col gap-8 lg:flex-row">
