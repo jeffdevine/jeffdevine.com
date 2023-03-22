@@ -21,5 +21,17 @@ author:
   bio_link : "/about.html"
   location : "Long Island City, NY"
   title    : "Fractional CTO"
-  twitter  : jeff_devine
   url      : https://jeffdevine.com
+
+twitter:
+  username: jeff_devine
+  card: summary
+
+social:
+  name: Jeff Devine
+  links:
+    - https://www.linkedin.com/in/jeffdevine/
+    - http://instagram.com/jive_ass_turkey_/
+    - https://twitter.com/jeff_devine
+    - https://github.com/jeffdevine
+    - https://ruby.social/@jeff
