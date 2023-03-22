@@ -1,13 +1,30 @@
 url: "https://jeffdevine.com"
-title: "Your Next Engineering Leader" # the name of your site, e.g. ACME Corp.
+title: "Jeff Devine" # the name of your site, e.g. ACME Corp.
+description:
+
+
+search: true
+timezone: America/New_York
 
 contact_form_api: 'https://ns2ncbequj.execute-api.us-east-1.amazonaws.com/contact'
 
 exclude: [package.json, postcss.config.js, README.md, tailwind.config.js, yarn.lock]
 
+permalink: /:categories/:title:output_ext
+
 plugins:
   - jekyll-postcss
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 postcss:
   cache: false
+
+
+author:
+  name     : "Jeff Devine"
+  avatar   : "/assets/images/jeff_devine_head_shot.png"
+  bio      : "New York-based musician, wine snob, coffee appreciator, amateur sartorialist, and family man."
+  bio_link : "/about.html"
+  location : "Long Island City, NY"
+  title    : "Fractional CTO"
