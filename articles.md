@@ -4,12 +4,12 @@ title: "Articles"
 description: "Expert insights and opinions on the latest trends in technology from a seasoned CTO and hands-on technologist."
 ---
 
-<div class="bg-white py-12 sm:py-24">
+<div class="bg-white py-8">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:max-w-4xl">
       <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl">From the blog</h2>
       <p class="mt-2 text-lg leading-8 text-gray-600">Insights and opinions on the latest trends in technology.</p>
-      <div class="mt-8 space-y-20 lg:mt-16 lg:space-y-20">
+      <div class="mt-6 space-y-20 lg:space-y-20">
       {% for post in site.posts %}
         <article class="relative isolate flex flex-col gap-8 lg:flex-row">
           <div class="relative aspect-[16/9] sm:aspect-[2/1] lg:aspect-square lg:w-64 lg:shrink-0">
@@ -22,13 +22,13 @@ description: "Expert insights and opinions on the latest trends in technology fr
               <p class="relative z-10 rounded-full bg-gray-50 py-1.5 px-3 font-medium text-gray-600 hover:bg-gray-100">{{ post.categories }}</p>
             </div>
             <div class="group relative max-w-xl">
-              <h3 class="mt-3 text-lg font-semibold leading-6 text-sky-600 hover:text-sky-900">
+              <h3 class="mt-3 text-2xl font-semibold leading-6 text-gray-800 hover:text-sky-900">
                 <a href="{{ post.url }}">
                   <span class="absolute inset-0"></span>
                   {{ post.title }}
                 </a>
               </h3>
-              <p class="mt-5 text-sm leading-6 text-gray-600">{{ post.description }}</p>
+              <p class="mt-5 text-lg leading-6 text-gray-600">{{ post.description }}</p>
             </div>
             <div class="mt-6 flex border-t border-gray-900/5 pt-6">
               <div class="relative flex items-center gap-x-4">
