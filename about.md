@@ -35,7 +35,7 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
   </div>
   <div class="relative px-8 lg:px-10">
     <div class="flex justify-center">
-      <img class="h-40 w-auto drop-shadow-lg" src="{{ '/assets/images/jeff_devine_head_shot.png' | relative_url }}" />
+      <img class="h-40 w-auto drop-shadow-lg" src="{{ '/assets/images/jeff_devine_head_shot.png' | relative_url }}" alt="Jeff Devine's headshot">
     </div>
     <div class="mx-auto max-w-prose text-lg mt-5">
       <h1>
