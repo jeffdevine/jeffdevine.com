@@ -7,7 +7,7 @@ description: "Expert insights and opinions on the latest trends in technology fr
 <div class="bg-white py-8">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:max-w-4xl">
-      <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl">From the blog</h2>
+      <h1 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl">From the blog</h1>
       <p class="mt-2 text-lg leading-8 text-gray-600">Insights and opinions on the latest trends in technology.</p>
       <div class="mt-6 space-y-20 lg:space-y-20">
       {% for post in site.posts %}
