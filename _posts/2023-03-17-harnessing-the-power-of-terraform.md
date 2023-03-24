@@ -44,7 +44,7 @@ Infrastructure automation is the key to streamlining the management of cloud res
 
 <p class="mt-5">Manual infrastructure provisioning can be time-consuming and error-prone, especially when dealing with large-scale or complex environments. Terraform automates provisioning, ensuring that resources are created and configured rapidly and accurately. This accelerated provisioning allows you to respond more quickly to changing business requirements and reduces the time spent on manual, repetitive tasks.</p>
 
-<h2 class="mt-6 text-2xl font-bold tracking-tight text-gray-900">Don't let your Cloud Manage You</h2>
+<h2 class="mt-6 text-2xl font-bold tracking-tight text-gray-900">Don't Let Your Cloud Manage You</h2>
 
 <p class="mt-2">Infrastructure automation with Terraform simplifies cloud resource management, increases collaboration, and reduces human error. By adopting Terraform for your infrastructure management, you will be better equipped to navigate the complexities of modern cloud environments and deliver faster, more reliable results.</p>
 
