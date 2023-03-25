@@ -7,9 +7,13 @@ contact_form_api: 'https://ns2ncbequj.execute-api.us-east-1.amazonaws.com/contac
 exclude: [package.json, postcss.config.js, README.md, tailwind.config.js, yarn.lock]
 permalink: /:categories/:title:output_ext
 plugins:
+  - jekyll-minifier
   - jekyll-postcss
   - jekyll-seo-tag
   - jekyll-sitemap
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 postcss:
   cache: false
 timezone: America/New_York
