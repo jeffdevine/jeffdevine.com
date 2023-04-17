@@ -34,6 +34,7 @@ window.addEventListener("load", (event) => {
 
 window.addEventListener("load", (event) => {
   document.querySelector("#dark-mode-toggle").addEventListener("click", toggleDarkMode);
+  document.querySelector("#dark-mode-toggle-mobile").addEventListener("click", toggleDarkMode);
 
   if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
     document.documentElement.classList.add('dark')
