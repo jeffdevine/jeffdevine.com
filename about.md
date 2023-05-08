@@ -88,7 +88,7 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
               <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Principal Consultant</td>
             </tr>
             <tr class="bg-gray-50">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">May 2011 – Apr 2012</td>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">May 2010 – Apr 2012</td>
               <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">ExecutiveView</td>
               <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Founder</td>
             </tr>
@@ -108,7 +108,7 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
               <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Programmer</td>
             </tr>
             <tr class="bg-gray-50">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 1997 – Jun 1999</td>
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 sm:pl-3">Jul 1996 – Jun 1999</td>
               <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900">Premium Systems, Inc.</td>
               <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">Web Developer</td>
             </tr>
