@@ -1,5 +1,3 @@
-bundle exec jekyll serve --livereload
-
 # Personal Website
 Codebase for https://jeffdevine.com.
 
