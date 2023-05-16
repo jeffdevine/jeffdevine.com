@@ -44,7 +44,7 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
     </div>
     <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500">
       <p>Jeff Devine is a musician, ex-whisky lover, and technologist living in New York City. He has 25 years of experience building technology and products for startups, large enterprises, and everything in between.</p>
-      <p>He is passionate about the craft of engineering and building high-performing teams. He is reluctantly learning about machine learning (as much as anyone can really understand it). In another life, he briefly made his living as a jazz drummer.</p>
+      <p>He is passionate about the craft of engineering and building high-performing teams. He has recently learned to stop worrying and love machine learning. In another life, he briefly made his living as a jazz drummer.</p>
       <p>Originally from Indianapolis, he studied music and computer science at Butler University. Jeff lives in Long Island City with two kids, two cats, lots of vinyl, and an embarrassing number of ride cymbals.</p>
     </div>
     <div class="mx-auto max-w-prose text-lg mt-5">
