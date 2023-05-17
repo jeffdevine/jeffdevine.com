@@ -24,14 +24,14 @@ title: "Your Next Engineering Leader"
   </svg>
   <div class="mx-auto max-w-3xl text-center">
     <h2 class="text-4xl font-bold tracking-tight text-white sm:text-4xl md:text-6xl">Good Engineering Executives <span class="block md:text-5xl mt-2">Are <i>Hard</i> To Find</span></h2>
-    <p class="mt-6 sm:text-lg md:text-2xl md:leading-relaxed text-gray-200">Are you an early-stage startup or a growing business looking to take your technology strategy to the next level? Do you need a <strong>highly experienced</strong> and <strong>knowledgeable CTO</strong> but can't justify the cost of hiring one full-time?</p>
+    <p class="mt-6 sm:text-lg md:text-2xl md:leading-relaxed text-gray-200">Are you an early-stage startup or a growing business looking to take your technology strategy to the next level? Do you need a <strong>highly experienced</strong> and <strong>knowledgeable Chief Technology Officer</strong> but can't justify the cost of hiring one full-time?</p>
     <p class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl md:text-4xl mt-10">
       <span class="block text-sky-500">You are in the right place.</span>
     </p>
   </div>
 </div>
 
-<div class="relative overflow-hidden bg-white py-16">
+<div class="relative overflow-hidden bg-white dark:bg-zinc-900 py-16">
   <div class="hidden lg:absolute lg:inset-y-0 lg:block lg:h-full lg:w-full lg:[overflow-anchor:none]">
     <div class="relative mx-auto h-full max-w-prose text-lg" aria-hidden="true">
       <svg class="absolute top-12 left-full translate-x-32 transform" width="404" height="384" fill="none" viewBox="0 0 404 384">
@@ -63,11 +63,11 @@ title: "Your Next Engineering Leader"
   <div class="relative px-8 lg:px-10">
     <div class="mx-auto max-w-prose text-lg">
       <h1 id="what-is-a-fractional-cto">
-        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-800 sm:text-4xl">What is a Fractional CTO?</span>
+        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-800 dark:text-gray-100 sm:text-4xl">What is a Fractional CTO?</span>
       </h1>
     </div>
-    <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500">
-      <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. With a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
+    <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500 dark:text-gray-100">
+      <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. When you hire a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
       <p>Here are just a few of the benefits of working with a fractional CTO:</p>
       <ul role="list">
         <li><strong class="text-sky-600">Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
@@ -75,16 +75,16 @@ title: "Your Next Engineering Leader"
         <li><strong class="text-sky-600">Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
         <li><strong class="text-sky-600">Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
       </ul>
-      <p>In short, a fractional CTO can help your business <strong>accelerate</strong> its <strong>growth</strong> by providing <strong>expert technology leadership</strong> on a <strong>flexible and cost-effective</strong> basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
+      <p>In short, a fractional CTO can help your business <strong class="dark:text-sky-600">accelerate</strong> its <strong class="dark:text-sky-600">growth</strong> by providing <strong class="dark:text-sky-600">expert technology leadership</strong> on a <strong class="dark:text-sky-600">flexible and cost-effective</strong> basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
     </div>
   </div>
 </div>
 
-<div class="bg-gray-50 py-24 sm:py-32">
+<div class="bg-gray-50 dark:bg-zinc-300 py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-8">
     <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <div>
-        <p class="mt-2 text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl" id="services"><span class="block">I'm your next</span>
+        <p class="mt-2 text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl" id="services"><span class="block">I'm your next </span>
       <span class="block text-sky-600">Engineering Leader</span></p>
         <p class="mt-6 text-base leading-7 text-gray-600">Whether you need a CTO, VP of Engineering, or Head of Platform, I've got you. I help identify and remove obstacles that slow an organization's ability to deliver value while institutionalizing processes and practices that help you scale your business.</p>
       </div>
@@ -302,7 +302,7 @@ title: "Your Next Engineering Leader"
   </div>
 </div>
 
-<div id="contact-form" class="overflow-hidden bg-white py-16 px-6 lg:px-8 lg:py-24">
+<div id="contact-form" class="overflow-hidden bg-white dark:bg-zinc-300 py-16 px-6 lg:px-8 lg:py-24">
   <div class="relative mx-auto max-w-3xl">
     <svg class="absolute left-full translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
       <defs>
