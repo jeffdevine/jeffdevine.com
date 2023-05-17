@@ -323,7 +323,7 @@ description: "Jeff Devine is your next engineering leader offering fractional CT
     </svg>
     <div class="text-center">
       <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl" id="contact">Solving your technical challenges starts here</h2>
-      <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
+      <p class="mt-4 text-lg leading-6 text-gray-500">Whether you need a part-time CTO to run a development team or an interim CTO to set your technology strategy, my flexible services have you covered. A quick discovery call is all it takes to get your company on the path to technological success.</p>
     </div>
     <div class="mt-12 max-w-2xl mx-auto">
       <form action="{{ site.contact_form_api }}" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
