@@ -9,6 +9,7 @@ module.exports = {
     './*.md',
     './*.html',
   ],
+  darkMode: 'class',
   theme: {
     theme: {
       extend: {

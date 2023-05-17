@@ -12,6 +12,16 @@ document.addEventListener('submit', (event) => {
   document.querySelector('#thank-you').style.display = 'block';
 });
 
+const toggleDarkMode = () => {
+  document.documentElement.classList.toggle('dark');
+
+  if (document.documentElement.classList.contains('dark') === true) {
+    localStorage.theme = 'dark';
+  } else {
+    localStorage.theme = 'light';
+  }
+}
+
 const toggleMenu = () => {
   document.querySelector('#nav-menu').classList.toggle('hidden');
 };
@@ -21,3 +31,14 @@ window.addEventListener("load", (event) => {
   document.querySelector('#mobile-nav-menu-close').removeEventListener('click', toggleMenu);
   document.querySelector('#mobile-nav-menu-close').addEventListener('click', toggleMenu);
 });
+
+window.addEventListener("load", (event) => {
+  document.querySelector("#dark-mode-toggle").addEventListener("click", toggleDarkMode);
+  document.querySelector("#dark-mode-toggle-mobile").addEventListener("click", toggleDarkMode);
+
+  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.classList.add('dark')
+  } else {
+    document.documentElement.classList.remove('dark')
+  }
+})
