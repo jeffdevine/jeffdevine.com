@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Your Next Engineering Leader"
+title: "Your Next Fractional CTO and Engineering Leader"
+description: "Jeff Devine is your next engineering leader offering fractional CTO and VP of Engineering services."
 ---
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 px-6 sm:py-32 lg:px-8">
   <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-y=.8&w=2830&h=1500&q=80&blend=111827&sat=-150&exp=15&blend-mode=multiply" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
@@ -322,7 +323,7 @@ title: "Your Next Engineering Leader"
     </svg>
     <div class="text-center">
       <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl" id="contact">Solving your technical challenges starts here</h2>
-      <p class="mt-4 text-lg leading-6 text-gray-500">A quick discovery call is all it takes to get your company on the path to technological success.</p>
+      <p class="mt-4 text-lg leading-6 text-gray-500">Whether you need a part-time CTO to run a development team or an interim CTO to set your technology strategy, my flexible services have you covered. A quick discovery call is all it takes to get your company on the path to technological success.</p>
     </div>
     <div class="mt-12 max-w-2xl mx-auto">
       <form action="{{ site.contact_form_api }}" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
