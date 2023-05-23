@@ -1,11 +1,10 @@
 url: "https://jeffdevine.com"
 title: "Jeff Devine" # the name of your site, e.g. ACME Corp.
-description: "Jeff Devine is a musician, ex-whisky lover, and technologist living in New York City. He has 25 years of experience building technology and offers services as a fractional engineering leader."
+description: "Jeff Devine is a musician, ex-whisky lover, and technologist living in New York City. He has 20+ years of experience building technology."
 tagelne: "Your Next Engineering Leader"
 
-contact_form_api: 'https://ns2ncbequj.execute-api.us-east-1.amazonaws.com/contact'
 exclude: [package.json, postcss.config.js, README.md, tailwind.config.js, yarn.lock]
-permalink: /:categories/:title:output_ext
+permalink: /blog/:categories/:title:output_ext
 plugins:
   - jekyll-minifier
   - jekyll-postcss
@@ -24,9 +23,7 @@ author:
   name     : "Jeff Devine"
   picture  : "/assets/images/jeff_devine_head_shot.png"
   bio      : "New York-based musician, wine snob, coffee appreciator, amateur sartorialist, and family man."
-  bio_link : "/about.html"
   location : "Long Island City, NY"
-  title    : "Fractional CTO"
   url      : https://jeffdevine.com
 
 twitter:

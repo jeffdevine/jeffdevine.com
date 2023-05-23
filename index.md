@@ -1,38 +1,10 @@
 ---
 layout: default
-title: "Your Next Fractional CTO and Engineering Leader"
-description: "Jeff Devine is your next engineering leader offering fractional CTO and VP of Engineering services."
+title: "Your Next Engineering Leader"
+description: "Jeff Devine is a New York-based musician, technologist, wine snob, coffee appreciator, amateur sartorialist, and family man."
 ---
-<div class="relative isolate overflow-hidden bg-gray-900 py-24 px-6 sm:py-32 lg:px-8">
-  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-y=.8&w=2830&h=1500&q=80&blend=111827&sat=-150&exp=15&blend-mode=multiply" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
-  <svg viewBox="0 0 1097 845" aria-hidden="true" class="hidden transform-gpu blur-3xl sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:w-[68.5625rem]">
-    <path fill="url(#10724532-9d81-43d2-bb94-866e98dd6e42)" fill-opacity=".2" d="M301.174 646.641 193.541 844.786 0 546.172l301.174 100.469 193.845-356.855c1.241 164.891 42.802 431.935 199.124 180.978 195.402-313.696 143.295-588.18 284.729-419.266 113.148 135.13 124.068 367.989 115.378 467.527L811.753 372.553l20.102 451.119-530.681-177.031Z" />
-    <defs>
-      <linearGradient id="10724532-9d81-43d2-bb94-866e98dd6e42" x1="1097.04" x2="-141.165" y1=".22" y2="363.075" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0284c7" />
-        <stop offset="1" stop-color="#7dd3fc" />
-      </linearGradient>
-    </defs>
-  </svg>
-  <svg viewBox="0 0 1097 845" aria-hidden="true" class="absolute left-1/2 -top-52 -z-10 w-[68.5625rem] -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0">
-    <path fill="url(#8ddc7edb-8983-4cd7-bccb-79ad21097d70)" fill-opacity=".2" d="M301.174 646.641 193.541 844.786 0 546.172l301.174 100.469 193.845-356.855c1.241 164.891 42.802 431.935 199.124 180.978 195.402-313.696 143.295-588.18 284.729-419.266 113.148 135.13 124.068 367.989 115.378 467.527L811.753 372.553l20.102 451.119-530.681-177.031Z" />
-    <defs>
-      <linearGradient id="8ddc7edb-8983-4cd7-bccb-79ad21097d70" x1="1097.04" x2="-141.165" y1=".22" y2="363.075" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0284c7" />
-        <stop offset="1" stop-color="#7dd3fc" />
-      </linearGradient>
-    </defs>
-  </svg>
-  <div class="mx-auto max-w-3xl text-center">
-    <h2 class="text-4xl font-bold tracking-tight text-white sm:text-4xl md:text-6xl">Good Engineering Executives <span class="block md:text-5xl mt-2">Are <i>Hard</i> To Find</span></h2>
-    <p class="mt-6 sm:text-lg md:text-2xl md:leading-relaxed text-gray-200">Are you an early-stage startup or a growing business looking to take your technology strategy to the next level? Do you need a <strong>highly experienced</strong> and <strong>knowledgeable Chief Technology Officer</strong> but can't justify the cost of hiring one full-time?</p>
-    <p class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl md:text-4xl mt-10">
-      <span class="block text-sky-500">You are in the right place.</span>
-    </p>
-  </div>
-</div>
 
-<div class="relative overflow-hidden bg-white dark:bg-zinc-900 py-16">
+<div class="relative overflow-hidden bg-white dark:bg-zinc-800 pt-5">
   <div class="hidden lg:absolute lg:inset-y-0 lg:block lg:h-full lg:w-full lg:[overflow-anchor:none]">
     <div class="relative mx-auto h-full max-w-prose text-lg" aria-hidden="true">
       <svg class="absolute top-12 left-full translate-x-32 transform" width="404" height="384" fill="none" viewBox="0 0 404 384">
@@ -62,314 +34,117 @@ description: "Jeff Devine is your next engineering leader offering fractional CT
     </div>
   </div>
   <div class="relative px-8 lg:px-10">
-    <div class="mx-auto max-w-prose text-lg">
-      <h1 id="what-is-a-fractional-cto">
-        <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-sky-800 dark:text-gray-100 sm:text-4xl">What is a Fractional CTO?</span>
+    <div class="flex justify-center">
+      <img class="h-40 w-auto drop-shadow-lg" src="{{ '/assets/images/jeff_devine_head_shot.png' | relative_url }}" alt="Jeff Devine's headshot">
+    </div>
+    <div class="mx-auto max-w-prose text-lg mt-5">
+      <h1>
+        <span class="mt-2 block text-center text-2xl font-bold leading-8 tracking-tight text-sky-600 dark:text-gray-200 sm:text-3xl">New York-based musician, wine snob, coffee appreciator, amateur sartorialist, and family man.</span>
       </h1>
     </div>
     <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500 dark:text-gray-100">
-      <p>A fractional CTO is a highly skilled and experienced technology leader who can work with your business on a part-time or project basis. When you hire a fractional CTO, you get all the benefits of a full-time CTO without the commitment of a long-term contract or the cost of a full-time employee.</p>
-      <p>Here are just a few of the benefits of working with a fractional CTO:</p>
-      <ul role="list">
-        <li><strong class="text-sky-600">Expertise:</strong> A fractional CTO has the experience and knowledge to develop and implement a technology strategy that aligns with your business goals. They can guide everything from product development and user experience to cloud infrastructure and data security.</li>
-        <li><strong class="text-sky-600">Cost-Effective:</strong> A fractional CTO can be more cost-effective than a full-time CTO, allowing you to access high-quality expertise flexibly. This means you can allocate your budget toward other critical business areas.</li>
-        <li><strong class="text-sky-600">Flexibility:</strong> A fractional CTO can work with your business on a part-time or project basis, making it easier to adjust your technology strategy as your business evolves. This provides the flexibility to scale up or down depending on your needs.</li>
-        <li><strong class="text-sky-600">Objectivity:</strong> A fractional CTO can bring an objective perspective to your business's technology strategy. They are not tied to any internal politics or personal agendas, which can lead to more objective and effective decision-making.</li>
-      </ul>
-      <p>In short, a fractional CTO can help your business <strong class="dark:text-sky-600">accelerate</strong> its <strong class="dark:text-sky-600">growth</strong> by providing <strong class="dark:text-sky-600">expert technology leadership</strong> on a <strong class="dark:text-sky-600">flexible and cost-effective</strong> basis. A fractional CTO is ideal if you're looking to take your technology strategy to the next level.</p>
+      <p>Jeff Devine is a musician, ex-whisky lover, and technologist living in New York City. He has 25 years of experience building technology and products for startups, large enterprises, and everything in between.</p>
+      <p>He is passionate about the craft of engineering and building high-performing teams. He has recently learned to stop worrying and love machine learning. In another life, he briefly made his living as a jazz drummer.</p>
+      <p>Originally from Indianapolis, he studied music and computer science at Butler University. Jeff lives in Long Island City with two kids, two cats, lots of vinyl, and an embarrassing number of ride cymbals.</p>
     </div>
-  </div>
-</div>
-
-<div class="bg-gray-50 dark:bg-zinc-300 py-24 sm:py-32">
-  <div class="mx-auto max-w-7xl px-8">
-    <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-      <div>
-        <p class="mt-2 text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl" id="services"><span class="block">I'm your next </span>
-      <span class="block text-sky-600">Engineering Leader</span></p>
-        <p class="mt-6 text-base leading-7 text-gray-600">Whether you need a CTO, VP of Engineering, or Head of Platform, I've got you. I help identify and remove obstacles that slow an organization's ability to deliver value while institutionalizing processes and practices that help you scale your business.</p>
-      </div>
-      <dl class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16">
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+    <div class="mx-auto max-w-prose text-lg mt-5">
+      <h2>
+        <span class="mt-5 block text-center text-xl font-bold leading-8 tracking-tight text-sky-600 dark:text-gray-100 sm:text-xl">From the Blog</span>
+      </h2>
+      <div class="mx-auto max-w-prose mt-5 grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-2">
+      {% for post in site.posts %}
+        <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80 shadow-md">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt_text }}" class="absolute inset-0 -z-10 h-full w-full object-cover ">
+        <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40"></div>
+        <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
+        <div class="flex flex-wrap items-center gap-y-1 overflow-hidden text-sm leading-6 text-gray-300">
+          <time class="mr-8">{{ post.date | date_to_long_string: "ordinal", "US" }}</time>
+          <div class="-ml-4 flex items-center gap-x-4">
+            <svg viewBox="0 0 2 2" class="-ml-0.5 h-0.5 w-0.5 flex-none fill-white/50">
+              <circle cx="1" cy="1" r="1" />
             </svg>
-            Technology Strategy
-          </dt>
-          <dd class="mt-2">Overall approach and roadmap to utilize technology to achieve business goals and objectives.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            Software Architecture
-          </dt>
-          <dd class="mt-2">High-level design and structure to meet the business' functional and non-functional requirements.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            Security & Compliance
-          </dt>
-          <dd class="mt-2">Securing platforms while ensuring compliance with relevant laws, regulations, and industry standards.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            Key Tech Decisions
-          </dt>
-          <dd class="mt-2">Take responsibility for making critical technical decisions such as technology stack, choosing vendors, or spearheading client integrations.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            DevOps & Automation
-          </dt>
-          <dd class="mt-2">Streamlining the SDLC to facilitate collaboration, increase efficiency, and improve software delivery speed and quality.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            System & Application Design
-          </dt>
-          <dd class="mt-2">Creating the blueprint for software development, including its architecture, components, modules, and interfaces.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            Platform Engineering
-          </dt>
-          <dd class="mt-2">Reusable processes, patterns, and libraries that remove friction and accelerate product development and delivery.</dd>
-        </div>
-        <div class="relative pl-9">
-          <dt class="font-semibold text-gray-900">
-            <svg class="absolute top-1 left-0 h-5 w-5 text-sky-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-            </svg>
-            Hiring
-          </dt>
-          <dd class="mt-2">Establish the roles to be filled, identify potential candidates, and develop interview and onboarding procedures that can be easily scaled.</dd>
-        </div>
-      </dl>
-    </div>
-  </div>
-</div>
-
-<div class="isolate overflow-hidden bg-gray-900">
-  <div class="mx-auto max-w-7xl px-6 pb-96 pt-12 text-center sm:pt-24 lg:px-8">
-    <div class="mx-auto max-w-4xl">
-      <h2 class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl" id="plans">The right plan that works for you</h2>
-    </div>
-    <div class="relative mt-6">
-      <p class="mx-auto max-w-2xl text-lg leading-8 text-white/90">Engagements are designed to be flexible and adapt to your business's changing needs, allowing you to scale up or down as required. You will receive top-notch expertise without being locked into a long-term commitment.</p>
-      <svg viewBox="0 0 1208 1024" class="absolute -top-10 left-1/2 -z-10 h-[64rem] -translate-x-1/2 [mask-image:radial-gradient(closest-side,white,transparent)] sm:-top-12 md:-top-20 lg:-top-12 xl:top-0">
-        <ellipse cx="604" cy="512" fill="url(#6d1bd035-0dd1-437e-93fa-59d316231eb0)" rx="604" ry="512" />
-        <defs>
-          <radialGradient id="6d1bd035-0dd1-437e-93fa-59d316231eb0">
-            <stop stop-color="#0284c7" />
-            <stop offset="1" stop-color="#7dd3fc" />
-          </radialGradient>
-        </defs>
-      </svg>
-    </div>
-  </div>
-  <div class="flow-root bg-gray-50 pb-32 sm:pb-32">
-    <div class="-mt-80">
-      <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="mx-auto grid max-w-md grid-cols-1 gap-8 lg:max-w-4xl lg:grid-cols-3">
-        <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
-            <div>
-              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-sky-600">Part-Time</h3>
-              <div class="mt-4 flex items-baseline gap-x-2">
-                <span class="text-3xl font-bold tracking-tight text-gray-900">24</span>
-                <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
-              </div>
-              <p class="mt-6 text-base leading-7 text-gray-600">Perfect for product development or major initiatives.</p>
-              <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  Dedicated Days
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  No Retainer
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  Additional Hours
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  3-Month Commitment
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
-            <div>
-              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-sky-600">Quarter-Time</h3>
-              <div class="mt-4 flex items-baseline gap-x-2">
-                <span class="text-3xl font-bold tracking-tight text-gray-900">10-12</span>
-                <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
-              </div>
-              <p class="mt-6 text-base leading-7 text-gray-600">Good for managing vendors or an outsourced team.</p>
-              <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  Time Blocks
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  Retainer-based
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  Additional Hours
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  1-Month Commitment
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="flex flex-col justify-between rounded-3xl bg-white p-8 shadow-xl ring-1 ring-gray-900/10 sm:p-10">
-            <div>
-              <h3 id="tier-part-time" class="text-3xl font-bold tracking-tight text-sky-600">Advisory</h3>
-              <div class="mt-4 flex items-baseline gap-x-2">
-                <span class="text-3xl font-bold tracking-tight text-gray-900">5</span>
-                <span class="text-base font-semibold leading-7 text-gray-600">hours/week</span>
-              </div>
-              <p class="mt-6 text-base leading-7 text-gray-600">When you have a big idea and need help getting started.</p>
-              <ul role="list" class="mt-5 space-y-4 text-sm leading-6 text-gray-600">
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  As Needed
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  Retainer-based
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  No Additional Hours
-                </li>
-                <li class="flex gap-x-3">
-                  <svg class="h-6 w-5 flex-none text-sky-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
-                  </svg>
-                  1-Month Commitment
-                </li>
-              </ul>
+            <div class="flex gap-x-2.5">
+              <img src="{{ site.author.picture | relative_url }}" alt="{{ site.author.name }}'s Headshot" class="h-6 w-6 flex-none rounded-full bg-white/10">
+              {{ site.author.name }}
             </div>
           </div>
         </div>
-      </div>
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-white">
+          <a href="{{ post.url }}">
+            <span class="absolute inset-0"></span>
+            {{ post.title }}
+          </a>
+        </h3>
+      </article>
+    {% endfor %}
     </div>
-  </div>
-</div>
-
-<div id="contact-form" class="overflow-hidden bg-white dark:bg-zinc-300 py-16 px-6 lg:px-8 lg:py-24">
-  <div class="relative mx-auto max-w-3xl">
-    <svg class="absolute left-full translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
-      <defs>
-        <pattern id="85737c0e-0916-41d7-917f-596dc7edfa27" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-          <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
-        </pattern>
-      </defs>
-      <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)" />
-    </svg>
-    <svg class="absolute right-full bottom-0 -translate-x-1/2 transform" width="404" height="404" fill="none" viewBox="0 0 404 404" aria-hidden="true">
-      <defs>
-        <pattern id="85737c0e-0916-41d7-917f-596dc7edfa27" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-          <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
-        </pattern>
-      </defs>
-      <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)" />
-    </svg>
-    <div class="text-center">
-      <h2 class="text-3xl font-bold tracking-tight text-sky-600 sm:text-4xl" id="contact">Solving your technical challenges starts here</h2>
-      <p class="mt-4 text-lg leading-6 text-gray-500">Whether you need a part-time CTO to run a development team or an interim CTO to set your technology strategy, my flexible services have you covered. A quick discovery call is all it takes to get your company on the path to technological success.</p>
+    <div class="mx-auto max-w-prose text-lg mt-10">
+      <h2>
+        <span class="mt-5 block text-center text-xl font-bold leading-8 tracking-tight text-sky-600 dark:text-gray-100 sm:text-xl">Work History</span>
+      </h2>
     </div>
-    <div class="mt-12 max-w-2xl mx-auto">
-      <form action="{{ site.contact_form_api }}" method="POST" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
-        <div>
-          <label for="first-name" class="block text-sm font-medium text-gray-700">First name</label>
-          <div class="mt-1">
-            <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500" required="true">
-          </div>
-        </div>
-        <div>
-          <label for="last-name" class="block text-sm font-medium text-gray-700">Last name</label>
-          <div class="mt-1">
-            <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
-          </div>
-        </div>
-        <div class="sm:col-span-2">
-          <label for="company" class="block text-sm font-medium text-gray-700">Company</label>
-          <div class="mt-1">
-            <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500">
-          </div>
-        </div>
-        <div class="sm:col-span-2">
-          <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
-          <div class="mt-1">
-            <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500" required="true">
-          </div>
-        </div>
-        <div class="sm:col-span-2">
-          <label for="message" class="block text-sm font-medium text-gray-700">Message</label>
-          <div class="mt-1">
-            <textarea id="message" name="message" rows="4" class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500"></textarea>
-          </div>
-        </div>
-        <div class="sm:col-span-2">
-          <button type="submit" class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-sky-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2">Let's talk</button>
-        </div>
-      </form>
+    <div class="relative overflow-x-auto shadow-md prose prose-lg mx-auto mt-5 mb-10 text-gray-500 dark:text-gray-400 sm:rounded-lg">
+      <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+          <thead class="text-xs text-gray-700 bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+            <tr>
+              <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 dark:text-gray-300 sm:pl-3">Date</th>
+              <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900 dark:text-gray-300">Company</th>
+              <th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900 dark:text-gray-300">Title</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Nov 2022 - Present</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Jeff Devine, LLC</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Fractional CTO Consultant</td>
+            </tr>
+            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Feb 2021 - Nov 2022<br>Apr 2019 - Feb 2021</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Allied World</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">SVP Chief Development Officer<br>SVP of Engineering</td>
+            </tr>
+            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jul 2017 - Apr 2019</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Artificing, LLC</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer</td>
+            </tr>
+            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jan 2016 – Jul 2017<br>Jul 2015 – Jan 2016</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Rejuvenan Global Health</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer<br>VP of Engineering</td>
+            </tr>
+            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jan 2012 – Jul 2015</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Gantry Services, Inc.</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Principal Consultant</td>
+            </tr>
+            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">May 2010 – Apr 2012</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">ExecutiveView</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Founder</td>
+            </tr>
+            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Apr 2010 – Sep 2011<br>Apr 2008 – Sep 2010</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Allied World Insurance Company</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">VP Data Manager<br>AVP Global Architect</td>
+            </tr>
+            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Mar 2006 – Apr 2008<br>Aug 2003 – Mar 2006</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Axis Capital</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">AVP Applications Development<br>Senior Programmer</td>
+            </tr>
+            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jun 1999 – Aug 2003</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">nSIGHT MEDIA</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Programmer</td>
+            </tr>
+            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jul 1996 – Jun 1999</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Premium Systems, Inc.</td>
+              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Web Developer</td>
+            </tr>
+          </tbody>
+        </table>
     </div>
-  </div>
-</div>
-
-<div id="thank-you" class="hidden relative isolate overflow-hidden bg-white py-24 px-6 sm:py-32 lg:px-8">
-  <div class="bg-[radial-gradient(45rem_50rem_at_top,theme(colors.sky.100),white)] absolute inset-0 -z-10 opacity-20"></div>
-  <div class="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-white shadow-xl shadow-indigo-600/10 ring-1 ring-indigo-50 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center"></div>
-  <div class="mx-auto max-w-2xl lg:max-w-4xl">
-    <p class="text-center text-2xl font-semibold leading-8 text-sky-600 sm:text-3xl sm:leading-9">Thank you!</p>
-    <p class="mt-5 text-center text-xl leading-8 text-sky-900 sm:leading-9">I'll be in touch very soon to schedule a discovery call.</p>
   </div>
 </div>

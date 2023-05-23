@@ -47,5 +47,3 @@ Infrastructure automation is the key to streamlining the management of cloud res
 <h2 class="mt-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-sky-600">Don't Let Your Cloud Manage You</h2>
 
 <p class="mt-2">Infrastructure automation with Terraform simplifies cloud resource management, increases collaboration, and reduces human error. By adopting Terraform for your infrastructure management, you will be better equipped to navigate the complexities of modern cloud environments and deliver faster, more reliable results.</p>
-
-<p class="mt-2">If you are ready to begin with infrastructure automation or are currently experiencing challenges with your implementation, I am here to assist. Let's connect and have a <a href="https://jeffdevine.com#contact-form" class="underline text-sky-500">risk-free discovery call</a> to get you and your company on the path to technological success.</p>
