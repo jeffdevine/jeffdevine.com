@@ -1,20 +1,21 @@
 ---
 layout: default
 title: "Articles"
-description: "Expert insights and opinions on the latest trends in technology from a seasoned CTO and hands-on technologist."
+description: "Expirimenmts and opinions from a hands-on technologist and reformed musician."
 ---
 
 <div class="bg-white dark:bg-zinc-800 py-8 min-h-screen">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:max-w-4xl">
       <h1 class="text-3xl font-bold tracking-tight text-sky-600 dark:text-gray-200 sm:text-4xl">From the blog</h1>
-      <p class="mt-2 text-lg leading-8 text-gray-600 dark:text-gray-300">Insights and opinions on the latest trends in technology.</p>
       <div class="mt-6 space-y-20 lg:space-y-20">
       {% for post in site.posts %}
         <article class="relative isolate flex flex-col gap-8 lg:flex-row">
           <div class="relative aspect-[16/9] sm:aspect-[2/1] lg:aspect-square lg:w-64 lg:shrink-0">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt_text }}" class="absolute inset-0 h-full w-full rounded-2xl bg-gray-50 object-cover">
+            <a href="{{ post.url }}">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt_text }}" class="absolute inset-0 h-full w-full rounded-2xl bg-gray-50 object-cover">
             <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
+            </a>
           </div>
           <div>
             <div class="flex items-center gap-x-4 text-xs">

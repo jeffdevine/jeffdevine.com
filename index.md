@@ -49,6 +49,37 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
     </div>
     <div class="mx-auto max-w-prose text-lg mt-5">
       <h2>
+        <span class="mt-5 block text-center text-xl font-bold leading-8 tracking-tight text-sky-600 dark:text-gray-100 sm:text-xl">From the Blog</span>
+      </h2>
+      <div class="mx-auto max-w-prose mt-5 grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-2">
+      {% for post in site.posts %}
+        <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80 shadow-md">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt_text }}" class="absolute inset-0 -z-10 h-full w-full object-cover ">
+        <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40"></div>
+        <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
+        <div class="flex flex-wrap items-center gap-y-1 overflow-hidden text-sm leading-6 text-gray-300">
+          <time class="mr-8">{{ post.date | date_to_long_string: "ordinal", "US" }}</time>
+          <div class="-ml-4 flex items-center gap-x-4">
+            <svg viewBox="0 0 2 2" class="-ml-0.5 h-0.5 w-0.5 flex-none fill-white/50">
+              <circle cx="1" cy="1" r="1" />
+            </svg>
+            <div class="flex gap-x-2.5">
+              <img src="{{ site.author.picture | relative_url }}" alt="{{ site.author.name }}'s Headshot" class="h-6 w-6 flex-none rounded-full bg-white/10">
+              {{ site.author.name }}
+            </div>
+          </div>
+        </div>
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-white">
+          <a href="{{ post.url }}">
+            <span class="absolute inset-0"></span>
+            {{ post.title }}
+          </a>
+        </h3>
+      </article>
+    {% endfor %}
+    </div>
+    <div class="mx-auto max-w-prose text-lg mt-10">
+      <h2>
         <span class="mt-5 block text-center text-xl font-bold leading-8 tracking-tight text-sky-600 dark:text-gray-100 sm:text-xl">Work History</span>
       </h2>
     </div>

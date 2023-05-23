@@ -4,7 +4,7 @@ description: "Jeff Devine is a musician, ex-whisky lover, and technologist livin
 tagelne: "Your Next Engineering Leader"
 
 exclude: [package.json, postcss.config.js, README.md, tailwind.config.js, yarn.lock]
-permalink: /:categories/:title:output_ext
+permalink: /blog/:categories/:title:output_ext
 plugins:
   - jekyll-minifier
   - jekyll-postcss
