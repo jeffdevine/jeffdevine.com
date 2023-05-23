@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About"
+title: "Your Next Engineering Leader"
 description: "Jeff Devine is a New York-based musician, technologist, wine snob, coffee appreciator, amateur sartorialist, and family man."
 ---
 
