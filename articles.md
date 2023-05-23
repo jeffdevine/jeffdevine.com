@@ -30,20 +30,6 @@ description: "Expert insights and opinions on the latest trends in technology fr
               </h3>
               <p class="mt-5 text-lg leading-6 text-gray-600 dark:text-gray-200">{{ post.description }}</p>
             </div>
-            <div class="mt-6 flex border-t border-gray-900/5 pt-6">
-              <div class="relative flex items-center gap-x-4">
-                <img src="{{ site.author.picture | relative_url }}" alt="{{ site.author.name }}'s Headshot" class="h-10 w-10 rounded-full bg-gray-50">
-                <div class="text-sm leading-6">
-                  <p class="font-semibold text-sky-600">
-                    <a href="{{ site.author.bio_link | relative_url }}">
-                      <span class="absolute inset-0"></span>
-                      {{ site.author.name }}
-                    </a>
-                  </p>
-                  <p class="text-gray-600 dark:text-gray-200">{{ site.author.title }}</p>
-                </div>
-              </div>
-            </div>
           </div>
         </article>
       {% endfor %}
