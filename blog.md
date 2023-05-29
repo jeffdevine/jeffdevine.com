@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Articles"
-description: "Expirimenmts and opinions from a hands-on technologist and reformed musician."
+title: "Blog"
+description: "Experiments and opinions from a hands-on technologist and reformed musician."
 ---
 
 <div class="bg-white dark:bg-zinc-800 py-8 min-h-screen">
