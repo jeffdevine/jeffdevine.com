@@ -7,14 +7,15 @@
   <title>{{ page.title }} - {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <script type="text/javascript" src="{{ '/assets/js/main.js' | relative_url }}"></script>
-  {% seo %}
+  <meta http-equiv="Content-Security-Policy" default-src "self" ; script-src "self" data:
+    https://www.googletagmanager.com/ https://assets.calendly.com/; style-src "self" data: https://rsms.me/;
+    object-src "none" ; base-uri "self" ; connect-src "self" ; font-src "self" ; frame-src "self" ; img-src "self" data:
+    https://images.unsplash.com/; manifest-src "self" ; media-src "self" ;">
 </head>
+{% seo %}
 
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
 
-{% include header.html %}
+{% if jekyll.environment == 'production' %} {% include analytics.html %} {% endif %} {% include header.html %}
 
 <body>
   {{ content }}
