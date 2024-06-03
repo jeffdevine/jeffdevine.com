@@ -43,40 +43,9 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
       </h1>
     </div>
     <div class="prose prose-lg prose-sky mx-auto mt-6 text-gray-500 dark:text-gray-100">
-      <p>Jeff Devine is a musician, ex-whisky lover, and technologist living in New York City. He has 25 years of experience building technology and products for startups, large enterprises, and everything in between.</p>
-      <p>He is passionate about the craft of engineering and building high-performing teams. He has recently learned to stop worrying and love machine learning. In another life, he briefly made his living as a jazz drummer.</p>
-      <p>Originally from Indianapolis, he studied music and computer science at Butler University. Jeff lives in Long Island City with two kids, two cats, lots of vinyl, and an embarrassing number of ride cymbals.</p>
-    </div>
-    <div class="mx-auto max-w-prose text-lg mt-5">
-      <h2>
-        <span class="mt-5 block text-center text-xl font-bold leading-8 tracking-tight text-sky-600 dark:text-gray-100 sm:text-xl">From the Blog</span>
-      </h2>
-      <div class="mx-auto max-w-prose mt-5 grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-2">
-      {% for post in site.posts %}
-        <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80 shadow-md">
-        <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt_text }}" class="absolute inset-0 -z-10 h-full w-full object-cover ">
-        <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40"></div>
-        <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
-        <div class="flex flex-wrap items-center gap-y-1 overflow-hidden text-sm leading-6 text-gray-300">
-          <time class="mr-8">{{ post.date | date_to_long_string: "ordinal", "US" }}</time>
-          <div class="-ml-4 flex items-center gap-x-4">
-            <svg viewBox="0 0 2 2" class="-ml-0.5 h-0.5 w-0.5 flex-none fill-white/50">
-              <circle cx="1" cy="1" r="1" />
-            </svg>
-            <div class="flex gap-x-2.5">
-              <img src="{{ site.author.picture | relative_url }}" alt="{{ site.author.name }}'s Headshot" class="h-6 w-6 flex-none rounded-full bg-white/10">
-              {{ site.author.name }}
-            </div>
-          </div>
-        </div>
-        <h3 class="mt-3 text-lg font-semibold leading-6 text-white">
-          <a href="{{ post.url }}">
-            <span class="absolute inset-0"></span>
-            {{ post.title }}
-          </a>
-        </h3>
-      </article>
-    {% endfor %}
+      <p>Jeff Devine is CTO at Augment Risk and has been a technology leader at Allied World and AXIS. With over 25 years of experience, he has built high-performing teams and technology platforms for startups and large enterprises.</p>
+      <p>He lives in New York City with his two children and two cats. Before moving to New York, he grew up in Indianapolis and studied Music and Computer Science at Butler University.</p>
+      <p>He loves collecting vinyl records and being overly fussy about coffee. In another life, he briefly made his living as a jazz drummer.</p>
     </div>
     <div class="mx-auto max-w-prose text-lg mt-10">
       <h2>
@@ -93,58 +62,63 @@ description: "Jeff Devine is a New York-based musician, technologist, wine snob,
             </tr>
           </thead>
           <tbody>
-            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Nov 2022 - Present</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Jeff Devine, LLC</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Fractional CTO Consultant</td>
-            </tr>
-            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Feb 2021 - Nov 2022<br>Apr 2019 - Feb 2021</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Allied World</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">SVP Chief Development Officer<br>SVP of Engineering</td>
-            </tr>
-            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jul 2017 - Apr 2019</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Artificing, LLC</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer</td>
-            </tr>
-            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jan 2016 – Jul 2017<br>Jul 2015 – Jan 2016</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Rejuvenan Global Health</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer<br>VP of Engineering</td>
-            </tr>
-            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jan 2012 – Jul 2015</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Gantry Services, Inc.</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Principal Consultant</td>
-            </tr>
-            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">May 2010 – Apr 2012</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">ExecutiveView</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Founder</td>
-            </tr>
-            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Apr 2010 – Sep 2011<br>Apr 2008 – Sep 2010</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Allied World Insurance Company</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">VP Data Manager<br>AVP Global Architect</td>
-            </tr>
-            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Mar 2006 – Apr 2008<br>Aug 2003 – Mar 2006</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Axis Capital</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">AVP Applications Development<br>Senior Programmer</td>
-            </tr>
-            <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jun 1999 – Aug 2003</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">nSIGHT MEDIA</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Programmer</td>
-            </tr>
-            <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
-              <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jul 1996 – Jun 1999</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Premium Systems, Inc.</td>
-              <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Web Developer</td>
-            </tr>
-          </tbody>
-        </table>
+          <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">April  2024 - Present</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Augment Risk</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer</td>
+          </tr>
+          <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Nov 2022 - April 2024</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Jeff Devine, LLC</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Fractional CTO Consultant</td>
+          </tr>
+          <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Feb 2021 - Nov 2022<br>Apr 2019 - Feb 2021</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Allied World</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">SVP Chief Development Officer<br>SVP of Engineering</td>
+          </tr>
+          <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jul 2017 - Apr 2019</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Artificing, LLC</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer</td>
+          </tr>
+          <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jan 2016 – Jul 2017<br>Jul 2015 – Jan 2016</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Rejuvenan Global Health</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Chief Technology Officer<br>VP of Engineering</td>
+          </tr>
+          <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jan 2012 – Jul 2015</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Gantry Services, Inc.</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Principal Consultant</td>
+          </tr>
+          <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">May 2010 – Apr 2012</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">ExecutiveView</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Founder</td>
+          </tr>
+          <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Apr 2010 – Sep 2011<br>Apr 2008 – Sep 2010</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Allied World Insurance Company</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">VP Data Manager<br>AVP Global Architect</td>
+          </tr>
+          <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Mar 2006 – Apr 2008<br>Aug 2003 – Mar 2006</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Axis Capital</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">AVP Applications Development<br>Senior Programmer</td>
+          </tr>
+          <tr class="bg-white dark:bg-zinc-800 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jun 1999 – Aug 2003</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">nSIGHT MEDIA</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Programmer</td>
+          </tr>
+          <tr class="bg-gray-50 dark:bg-zinc-900 dark:border-gray-600">
+            <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm text-gray-500 dark:text-gray-200 sm:pl-3">Jul 1996 – Jun 1999</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-200">Premium Systems, Inc.</td>
+            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 dark:text-gray-200">Web Developer</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </div>
