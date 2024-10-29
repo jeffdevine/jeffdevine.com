@@ -80,7 +80,7 @@ GEM
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.4.2)
-    webrick (1.7.0)
+    webrick (1.8.2)
 
 PLATFORMS
   arm64-darwin-22
@@ -93,7 +93,7 @@ DEPENDENCIES
   jekyll-postcss (~> 0.5.0)
   jekyll-seo-tag (~> 2.8.0)
   jekyll-sitemap (~> 1.4.0)
-  webrick (~> 1.7.0)
+  webrick (~> 1.8.2)
 
 BUNDLED WITH
    2.3.7
